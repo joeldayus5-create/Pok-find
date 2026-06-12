@@ -1,0 +1,662 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background: #191326;
+    overflow: hidden;
+    color: white;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 0;
+    font-size: 38px;
+    color: #f2e6ff;
+    text-shadow: 0 0 10px #8e44ad;
+}
+
+#targetTitle {
+    margin-top: 4px;
+    margin-bottom: 8px;
+    font-size: 24px;
+    color: #d6b3ff;
+}
+
+#topBar {
+    display: flex;
+    justify-content: space-around;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 8px;
+    color: #ffffff;
+}
+
+#gameArea {
+    width: 95vw;
+    height: 66vh;
+    margin: auto;
+    position: relative;
+    overflow: hidden;
+    border: 4px solid #d6b3ff;
+    background: #1c152b;
+    touch-action: none;
+    box-shadow: 0 0 18px #6f42c1;
+}
+
+#world {
+    width: 2500px;
+    height: 2500px;
+    position: absolute;
+    left: 0;
+    top: 0;
+
+    background:
+        radial-gradient(circle at 20% 15%, rgba(180, 130, 255, 0.25), transparent 12%),
+        radial-gradient(circle at 75% 25%, rgba(120, 90, 180, 0.22), transparent 14%),
+        repeating-linear-gradient(
+            90deg,
+            rgba(255,255,255,0.03) 0px,
+            rgba(255,255,255,0.03) 4px,
+            transparent 4px,
+            transparent 90px
+        ),
+        repeating-linear-gradient(
+            0deg,
+            #2a213a 0px,
+            #2a213a 78px,
+            #241b33 78px,
+            #241b33 82px
+        );
+}
+
+/* floor tile cracks */
+#world::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background:
+        linear-gradient(135deg, transparent 0 48%, rgba(0,0,0,0.22) 49%, transparent 51%) 120px 160px / 280px 280px,
+        linear-gradient(45deg, transparent 0 48%, rgba(255,255,255,0.05) 49%, transparent 51%) 50px 80px / 340px 340px;
+    pointer-events: none;
+}
+
+/* ghostly fog */
+#world::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background:
+        radial-gradient(ellipse at 30% 40%, rgba(210, 190, 255, 0.10), transparent 20%),
+        radial-gradient(ellipse at 65% 70%, rgba(210, 190, 255, 0.08), transparent 18%),
+        radial-gradient(ellipse at 85% 45%, rgba(210, 190, 255, 0.07), transparent 16%);
+    pointer-events: none;
+}
+
+.character {
+    position: absolute;
+    user-select: none;
+    z-index: 5;
+}
+
+.character img {
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+}
+
+.bonus {
+    position: absolute;
+    font-size: 28px;
+    user-select: none;
+    z-index: 4;
+}
+
+#message {
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #d6b3ff;
+    min-height: 28px;
+}
+
+#restartBtn,
+#hintBtn {
+    margin-top: 8px;
+    margin-bottom: 20px;
+    padding: 10px 14px;
+    font-size: 16px;
+    border-radius: 8px;
+    border: 2px solid #d6b3ff;
+    background: #2a213a;
+    color: white;
+}
+
+#restartBtn:active,
+#hintBtn:active {
+    background: #4b3670;
+}
+
+.targetFlash {
+    filter: none;
+}
+
+/* ===== THEME BACKGROUNDS ===== */
+
+.theme-purple {
+    background:
+        radial-gradient(circle at 20% 15%, rgba(180,130,255,0.25), transparent 12%),
+        radial-gradient(circle at 75% 25%, rgba(120,90,180,0.22), transparent 14%),
+        repeating-linear-gradient(
+            90deg,
+            rgba(255,255,255,0.03) 0px,
+            rgba(255,255,255,0.03) 4px,
+            transparent 4px,
+            transparent 90px
+        ),
+        repeating-linear-gradient(
+            0deg,
+            #2a213a 0px,
+            #2a213a 78px,
+            #241b33 78px,
+            #241b33 82px
+        );
+}
+
+.theme-blue {
+    background:
+        radial-gradient(circle at 15% 20%, rgba(120,200,255,0.22), transparent 14%),
+        radial-gradient(circle at 78% 28%, rgba(70,130,255,0.20), transparent 18%),
+        repeating-linear-gradient(
+            90deg,
+            rgba(255,255,255,0.035) 0px,
+            rgba(255,255,255,0.035) 3px,
+            transparent 3px,
+            transparent 85px
+        ),
+        repeating-linear-gradient(
+            0deg,
+            #173b59 0px,
+            #173b59 72px,
+            #102b44 72px,
+            #102b44 78px
+        );
+}
+
+.theme-green {
+    background:
+        radial-gradient(circle at 22% 18%, rgba(130,255,130,0.20), transparent 16%),
+        radial-gradient(circle at 74% 42%, rgba(70,190,90,0.18), transparent 18%),
+        repeating-linear-gradient(
+            90deg,
+            rgba(255,255,255,0.025) 0px,
+            rgba(255,255,255,0.025) 4px,
+            transparent 4px,
+            transparent 90px
+        ),
+        repeating-linear-gradient(
+            0deg,
+            #21441f 0px,
+            #21441f 76px,
+            #173316 76px,
+            #173316 82px
+        );
+}
+
+.theme-red {
+    background:
+        radial-gradient(circle at 22% 18%, rgba(255,130,90,0.22), transparent 16%),
+        radial-gradient(circle at 76% 34%, rgba(255,200,80,0.16), transparent 18%),
+        repeating-linear-gradient(
+            90deg,
+            rgba(255,255,255,0.03) 0px,
+            rgba(255,255,255,0.03) 4px,
+            transparent 4px,
+            transparent 90px
+        ),
+        repeating-linear-gradient(
+            0deg,
+            #4a1e1e 0px,
+            #4a1e1e 76px,
+            #321313 76px,
+            #321313 82px
+        );
+}
+
+.theme-yellow {
+    background:
+        radial-gradient(circle at 22% 20%, rgba(255,255,130,0.22), transparent 15%),
+        radial-gradient(circle at 78% 34%, rgba(255,210,60,0.20), transparent 18%),
+        repeating-linear-gradient(
+            90deg,
+            rgba(255,255,255,0.035) 0px,
+            rgba(255,255,255,0.035) 4px,
+            transparent 4px,
+            transparent 88px
+        ),
+        repeating-linear-gradient(
+            0deg,
+            #4b4216 0px,
+            #4b4216 74px,
+            #302a0d 74px,
+            #302a0d 80px
+        );
+}
+#world.theme-purple {
+    background:
+        radial-gradient(circle at 20% 15%, rgba(180,130,255,0.25), transparent 12%),
+        radial-gradient(circle at 75% 25%, rgba(120,90,180,0.22), transparent 14%),
+        repeating-linear-gradient(90deg, rgba(255,255,255,0.03) 0px, rgba(255,255,255,0.03) 4px, transparent 4px, transparent 90px),
+        repeating-linear-gradient(0deg, #2a213a 0px, #2a213a 78px, #241b33 78px, #241b33 82px);
+}
+
+#world.theme-blue {
+    background:
+        radial-gradient(circle at 15% 20%, rgba(120,200,255,0.22), transparent 14%),
+        radial-gradient(circle at 78% 28%, rgba(70,130,255,0.20), transparent 18%),
+        repeating-linear-gradient(90deg, rgba(255,255,255,0.035) 0px, rgba(255,255,255,0.035) 3px, transparent 3px, transparent 85px),
+        repeating-linear-gradient(0deg, #173b59 0px, #173b59 72px, #102b44 72px, #102b44 78px);
+}
+
+#world.theme-green {
+    background:
+        radial-gradient(circle at 22% 18%, rgba(130,255,130,0.20), transparent 16%),
+        radial-gradient(circle at 74% 42%, rgba(70,190,90,0.18), transparent 18%),
+        repeating-linear-gradient(90deg, rgba(255,255,255,0.025) 0px, rgba(255,255,255,0.025) 4px, transparent 4px, transparent 90px),
+        repeating-linear-gradient(0deg, #21441f 0px, #21441f 76px, #173316 76px, #173316 82px);
+}
+
+#world.theme-red {
+    background:
+        radial-gradient(circle at 22% 18%, rgba(255,130,90,0.22), transparent 16%),
+        radial-gradient(circle at 76% 34%, rgba(255,200,80,0.16), transparent 18%),
+        repeating-linear-gradient(90deg, rgba(255,255,255,0.03) 0px, rgba(255,255,255,0.03) 4px, transparent 4px, transparent 90px),
+        repeating-linear-gradient(0deg, #4a1e1e 0px, #4a1e1e 76px, #321313 76px, #321313 82px);
+}
+
+#world.theme-yellow {
+    background:
+        radial-gradient(circle at 22% 20%, rgba(255,255,130,0.22), transparent 15%),
+        radial-gradient(circle at 78% 34%, rgba(255,210,60,0.20), transparent 18%),
+        repeating-linear-gradient(90deg, rgba(255,255,255,0.035) 0px, rgba(255,255,255,0.035) 4px, transparent 4px, transparent 88px),
+        repeating-linear-gradient(0deg, #4b4216 0px, #4b4216 74px, #302a0d 74px, #302a0d 80px);
+}.character.target {
+    z-index: 20;
+}
+
+.character.target::after {
+    content: "";
+    position: absolute;
+    left: -12px;
+    top: -12px;
+    right: -12px;
+    bottom: -12px;
+}
+
+/* ===== CROWD CLUSTER MARKERS ===== */
+
+.clusterMarker {
+    position: absolute;
+    border-radius: 50%;
+    pointer-events: none;
+    z-index: 1;
+    opacity: 0.28;
+    background:
+        radial-gradient(circle, rgba(255,255,255,0.10), transparent 58%);
+    box-shadow: inset 0 0 28px rgba(255,255,255,0.06);
+}
+
+.character.target {
+    z-index: 30;
+}
+
+.character.target::after {
+    content: "";
+    position: absolute;
+    left: -14px;
+    top: -14px;
+    right: -14px;
+    bottom: -14px;
+}
+
+#world.theme-legendary {
+    background:
+        radial-gradient(circle at 20% 18%, rgba(255, 235, 130, 0.28), transparent 15%),
+        radial-gradient(circle at 76% 30%, rgba(255, 180, 80, 0.22), transparent 18%),
+        radial-gradient(circle at 50% 68%, rgba(255, 255, 255, 0.10), transparent 20%),
+        repeating-linear-gradient(90deg, rgba(255,255,255,0.04) 0px, rgba(255,255,255,0.04) 4px, transparent 4px, transparent 86px),
+        repeating-linear-gradient(0deg, #4b3512 0px, #4b3512 76px, #2d200b 76px, #2d200b 82px);
+}
+
+#world.theme-legendary::after {
+    background:
+        radial-gradient(ellipse at 30% 35%, rgba(255, 240, 180, 0.13), transparent 20%),
+        radial-gradient(ellipse at 70% 60%, rgba(255, 220, 130, 0.11), transparent 18%),
+        radial-gradient(ellipse at 85% 45%, rgba(255, 255, 255, 0.08), transparent 16%);
+}
+
+#pokedexBtn,
+#achievementsBtn,
+#resetSaveBtn {
+    margin-top: 8px;
+    margin-bottom: 20px;
+    padding: 10px 14px;
+    font-size: 16px;
+    border-radius: 8px;
+    border: 2px solid #d6b3ff;
+    background: #2a213a;
+    color: white;
+}
+
+#pokedexBtn:active,
+#achievementsBtn:active,
+#resetSaveBtn:active {
+    background: #4b3670;
+}
+
+.hidden {
+    display: none;
+}
+
+#modalOverlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.72);
+    z-index: 9999;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#modalOverlay.hidden {
+    display: none;
+}
+
+#modalBox {
+    width: 88vw;
+    max-height: 78vh;
+    overflow-y: auto;
+    background: #1d142b;
+    border: 3px solid #d6b3ff;
+    border-radius: 12px;
+    box-shadow: 0 0 20px #8e44ad;
+    padding: 16px;
+    color: white;
+    text-align: left;
+    position: relative;
+}
+
+#modalTitle {
+    text-align: center;
+    color: #d6b3ff;
+    margin-top: 0;
+}
+
+#closeModalBtn {
+    position: absolute;
+    top: 8px;
+    right: 8px;
+    border: 2px solid #d6b3ff;
+    background: #2a213a;
+    color: white;
+    border-radius: 6px;
+    padding: 4px 8px;
+}
+
+.dexGrid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    text-align: center;
+}
+
+.dexEntry {
+    background: rgba(255,255,255,0.06);
+    border: 1px solid rgba(214,179,255,0.35);
+    border-radius: 8px;
+    padding: 8px;
+    min-height: 88px;
+}
+
+.dexEntry.locked {
+    opacity: 0.35;
+    filter: grayscale(1);
+}
+
+.dexEntry img {
+    width: 48px;
+    height: 48px;
+    object-fit: contain;
+}
+
+.dexName {
+    font-size: 12px;
+    margin-top: 4px;
+    word-break: break-word;
+}
+
+.achievement {
+    padding: 10px;
+    margin-bottom: 8px;
+    border-radius: 8px;
+    background: rgba(255,255,255,0.06);
+    border: 1px solid rgba(214,179,255,0.35);
+}
+
+.achievement.unlocked {
+    border-color: gold;
+    box-shadow: 0 0 8px rgba(255,215,0,0.35);
+}
+
+.statLine {
+    margin: 6px 0;
+}
+
+#world.theme-brown {
+    background:
+        radial-gradient(circle at 20% 18%, rgba(190, 140, 80, 0.25), transparent 15%),
+        radial-gradient(circle at 76% 30%, rgba(120, 80, 45, 0.22), transparent 18%),
+        repeating-linear-gradient(90deg, rgba(255,255,255,0.025) 0px, rgba(255,255,255,0.025) 4px, transparent 4px, transparent 88px),
+        repeating-linear-gradient(0deg, #3b291c 0px, #3b291c 76px, #25190f 76px, #25190f 82px);
+}
+
+#world.theme-brown::after {
+    background:
+        radial-gradient(ellipse at 30% 35%, rgba(210, 170, 120, 0.11), transparent 20%),
+        radial-gradient(ellipse at 70% 60%, rgba(160, 110, 70, 0.10), transparent 18%),
+        radial-gradient(ellipse at 85% 45%, rgba(255, 255, 255, 0.05), transparent 16%);
+}
+
+#world.theme-pink {
+    background:
+        radial-gradient(circle at 20% 18%, rgba(255, 150, 220, 0.25), transparent 15%),
+        radial-gradient(circle at 76% 30%, rgba(255, 100, 180, 0.20), transparent 18%),
+        repeating-linear-gradient(90deg, rgba(255,255,255,0.035) 0px, rgba(255,255,255,0.035) 4px, transparent 4px, transparent 88px),
+        repeating-linear-gradient(0deg, #42213a 0px, #42213a 76px, #281525 76px, #281525 82px);
+}
+
+#world.theme-pink::after {
+    background:
+        radial-gradient(ellipse at 30% 35%, rgba(255, 210, 240, 0.12), transparent 20%),
+        radial-gradient(ellipse at 70% 60%, rgba(255, 150, 220, 0.10), transparent 18%),
+        radial-gradient(ellipse at 85% 45%, rgba(255, 255, 255, 0.06), transparent 16%);
+}
+
+
+/* Shiny encounter effects */
+.character.shinyEncounter {
+    filter: drop-shadow(0 0 8px gold) drop-shadow(0 0 14px white);
+    animation: shinyPulse 1.4s ease-in-out infinite;
+}
+
+.character.shinyEncounter::after {
+    content: "✨";
+    position: absolute;
+    right: -8px;
+    top: -12px;
+    font-size: 18px;
+    pointer-events: none;
+    animation: shinySparkle 1s ease-in-out infinite alternate;
+}
+
+.shinyDexLine {
+    color: #ffd966;
+}
+
+@keyframes shinyPulse {
+    0%, 100% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.08);
+    }
+}
+
+@keyframes shinySparkle {
+    from {
+        opacity: 0.45;
+        transform: rotate(-15deg) scale(0.9);
+    }
+    to {
+        opacity: 1;
+        transform: rotate(15deg) scale(1.2);
+    }
+}
+
+
+/* PokéFind Cosmetics */
+.playerTitle {
+    text-align: center;
+    font-size: 0.95rem;
+    font-weight: 800;
+    margin-top: -8px;
+    margin-bottom: 8px;
+    color: #ffffff;
+    opacity: 0.95;
+    text-shadow: 0 0 8px rgba(216, 170, 255, 0.85);
+}
+
+.cosmeticSectionTitle {
+    margin-top: 14px;
+    margin-bottom: 8px;
+    font-size: 1.05rem;
+    font-weight: 900;
+    color: #e8c7ff;
+}
+
+.cosmeticEquipped {
+    display: inline-block;
+    margin-top: 5px;
+    font-weight: 800;
+    color: #ffe680;
+}
+
+/* Cosmetic themes */
+
+
+
+
+
+
+
+
+
+
+
+
+/* Cosmetic borders */
+body.cosmetic-border-purple #gameArea { border-color: #d6a6ff !important; box-shadow: 0 0 18px rgba(214, 166, 255, 0.75); }
+body.cosmetic-border-gold #gameArea { border-color: #f1c232 !important; box-shadow: 0 0 20px rgba(241, 194, 50, 0.8); }
+body.cosmetic-border-emerald #gameArea { border-color: #2ecc71 !important; box-shadow: 0 0 20px rgba(46, 204, 113, 0.75); }
+body.cosmetic-border-ruby #gameArea { border-color: #e74c3c !important; box-shadow: 0 0 20px rgba(231, 76, 60, 0.75); }
+body.cosmetic-border-sapphire #gameArea { border-color: #3498db !important; box-shadow: 0 0 20px rgba(52, 152, 219, 0.75); }
+
+
+
+/* UI-only cosmetic themes */
+
+body.cosmetic-theme-forest{
+    background:linear-gradient(180deg,#071a07,#102f10);
+}
+body.cosmetic-theme-ocean{
+    background:linear-gradient(180deg,#061b2e,#0b3557);
+}
+body.cosmetic-theme-cave{
+    background:linear-gradient(180deg,#161616,#2b2b2b);
+}
+body.cosmetic-theme-volcano{
+    background:linear-gradient(180deg,#2b0909,#5c1200);
+}
+body.cosmetic-theme-night{
+    background:linear-gradient(180deg,#060614,#14143a);
+}
+body.cosmetic-theme-golden{
+    background:linear-gradient(180deg,#2a2200,#5a4700);
+}
+
+body.cosmetic-theme-forest h1,
+body.cosmetic-theme-forest #gameTitle{
+    text-shadow:0 0 18px #66ff66;
+}
+
+body.cosmetic-theme-ocean h1,
+body.cosmetic-theme-ocean #gameTitle{
+    text-shadow:0 0 18px #66ddff;
+}
+
+body.cosmetic-theme-volcano h1,
+body.cosmetic-theme-volcano #gameTitle{
+    text-shadow:0 0 18px #ff8844;
+}
+
+body.cosmetic-theme-night h1,
+body.cosmetic-theme-night #gameTitle{
+    text-shadow:0 0 18px #9999ff;
+}
+
+body.cosmetic-theme-golden h1,
+body.cosmetic-theme-golden #gameTitle{
+    text-shadow:0 0 18px gold;
+}
+
+body.cosmetic-theme-forest .modal,
+body.cosmetic-theme-forest button{
+    box-shadow:0 0 12px rgba(80,255,80,.35);
+}
+
+body.cosmetic-theme-ocean .modal,
+body.cosmetic-theme-ocean button{
+    box-shadow:0 0 12px rgba(80,220,255,.35);
+}
+
+body.cosmetic-theme-volcano .modal,
+body.cosmetic-theme-volcano button{
+    box-shadow:0 0 12px rgba(255,120,0,.35);
+}
+
+body.cosmetic-theme-night .modal,
+body.cosmetic-theme-night button{
+    box-shadow:0 0 12px rgba(120,120,255,.35);
+}
+
+body.cosmetic-theme-golden .modal,
+body.cosmetic-theme-golden button{
+    box-shadow:0 0 12px rgba(255,215,0,.45);
+}
+
+/* never recolour gameplay board */
+
+
+
+
+/* Permanent board theme fallback */
+#world.theme-purple { background: linear-gradient(135deg, #241934, #463064) !important; }
+#world.theme-blue { background: linear-gradient(135deg, #123653, #1d7195) !important; }
+#world.theme-green { background: linear-gradient(135deg, #173d28, #347b44) !important; }
+#world.theme-red { background: linear-gradient(135deg, #4b1414, #8f2d2d) !important; }
+#world.theme-yellow { background: linear-gradient(135deg, #5b4510, #92701d) !important; }
+#world.theme-brown { background: linear-gradient(135deg, #3d2719, #6f4a2c) !important; }
+#world.theme-pink { background: linear-gradient(135deg, #4d2443, #8c4b79) !important; }
+#world.theme-grey, #world.theme-gray { background: linear-gradient(135deg, #30343d, #5b6170) !important; }
+#world.theme-white { background: linear-gradient(135deg, #4a4d59, #858998) !important; }
+#world.theme-black { background: linear-gradient(135deg, #09090d, #252532) !important; }
+#world.theme-legendary { background: linear-gradient(135deg, #3d2a10, #8a641d) !important; }

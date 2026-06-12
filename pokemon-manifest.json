@@ -1,0 +1,7544 @@
+[
+  {
+    "dex": 1,
+    "name": "bulbasaur",
+    "file": "green/bulbasaur-shiny.png",
+    "filename": "bulbasaur-shiny.png",
+    "colour": "green",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 1,
+    "name": "bulbasaur",
+    "file": "green/bulbasaur.png",
+    "filename": "bulbasaur.png",
+    "colour": "green",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 2,
+    "name": "ivysaur",
+    "file": "green/ivysaur-shiny.png",
+    "filename": "ivysaur-shiny.png",
+    "colour": "green",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 2,
+    "name": "ivysaur",
+    "file": "green/ivysaur.png",
+    "filename": "ivysaur.png",
+    "colour": "green",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 3,
+    "name": "venusaur",
+    "file": "green/venusaur-shiny.png",
+    "filename": "venusaur-shiny.png",
+    "colour": "green",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 3,
+    "name": "venusaur",
+    "file": "green/venusaur.png",
+    "filename": "venusaur.png",
+    "colour": "green",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 4,
+    "name": "charmander",
+    "file": "red/charmander-shiny.png",
+    "filename": "charmander-shiny.png",
+    "colour": "red",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 4,
+    "name": "charmander",
+    "file": "red/charmander.png",
+    "filename": "charmander.png",
+    "colour": "red",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 5,
+    "name": "charmeleon",
+    "file": "red/charmeleon-shiny.png",
+    "filename": "charmeleon-shiny.png",
+    "colour": "red",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 5,
+    "name": "charmeleon",
+    "file": "red/charmeleon.png",
+    "filename": "charmeleon.png",
+    "colour": "red",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 6,
+    "name": "charizard",
+    "file": "red/charizard-shiny.png",
+    "filename": "charizard-shiny.png",
+    "colour": "red",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 6,
+    "name": "charizard",
+    "file": "red/charizard.png",
+    "filename": "charizard.png",
+    "colour": "red",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 7,
+    "name": "squirtle",
+    "file": "blue/squirtle-shiny.png",
+    "filename": "squirtle-shiny.png",
+    "colour": "blue",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 7,
+    "name": "squirtle",
+    "file": "blue/squirtle.png",
+    "filename": "squirtle.png",
+    "colour": "blue",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 8,
+    "name": "wartortle",
+    "file": "blue/wartortle-shiny.png",
+    "filename": "wartortle-shiny.png",
+    "colour": "blue",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 8,
+    "name": "wartortle",
+    "file": "blue/wartortle.png",
+    "filename": "wartortle.png",
+    "colour": "blue",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 9,
+    "name": "blastoise",
+    "file": "blue/blastoise-shiny.png",
+    "filename": "blastoise-shiny.png",
+    "colour": "blue",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 9,
+    "name": "blastoise",
+    "file": "blue/blastoise.png",
+    "filename": "blastoise.png",
+    "colour": "blue",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 10,
+    "name": "caterpie",
+    "file": "green/caterpie-shiny.png",
+    "filename": "caterpie-shiny.png",
+    "colour": "green",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 10,
+    "name": "caterpie",
+    "file": "green/caterpie.png",
+    "filename": "caterpie.png",
+    "colour": "green",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 11,
+    "name": "metapod",
+    "file": "green/metapod-shiny.png",
+    "filename": "metapod-shiny.png",
+    "colour": "green",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 11,
+    "name": "metapod",
+    "file": "green/metapod.png",
+    "filename": "metapod.png",
+    "colour": "green",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 12,
+    "name": "butterfree",
+    "file": "purple/butterfree-shiny.png",
+    "filename": "butterfree-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 12,
+    "name": "butterfree",
+    "file": "purple/butterfree.png",
+    "filename": "butterfree.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 13,
+    "name": "weedle",
+    "file": "yellow/weedle-shiny.png",
+    "filename": "weedle-shiny.png",
+    "colour": "yellow",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 13,
+    "name": "weedle",
+    "file": "yellow/weedle.png",
+    "filename": "weedle.png",
+    "colour": "yellow",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 14,
+    "name": "kakuna",
+    "file": "green/kakuna-shiny.png",
+    "filename": "kakuna-shiny.png",
+    "colour": "green",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 14,
+    "name": "kakuna",
+    "file": "green/kakuna.png",
+    "filename": "kakuna.png",
+    "colour": "green",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 15,
+    "name": "beedrill",
+    "file": "red/beedrill-shiny.png",
+    "filename": "beedrill-shiny.png",
+    "colour": "red",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 15,
+    "name": "beedrill",
+    "file": "red/beedrill.png",
+    "filename": "beedrill.png",
+    "colour": "red",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 16,
+    "name": "pidgey",
+    "file": "brown/pidgey-shiny.png",
+    "filename": "pidgey-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 16,
+    "name": "pidgey",
+    "file": "brown/pidgey.png",
+    "filename": "pidgey.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 17,
+    "name": "pidgeotto",
+    "file": "brown/pidgeotto-shiny.png",
+    "filename": "pidgeotto-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 17,
+    "name": "pidgeotto",
+    "file": "brown/pidgeotto.png",
+    "filename": "pidgeotto.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 18,
+    "name": "pidgeot",
+    "file": "brown/pidgeot-shiny.png",
+    "filename": "pidgeot-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 18,
+    "name": "pidgeot",
+    "file": "brown/pidgeot.png",
+    "filename": "pidgeot.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 19,
+    "name": "rattata",
+    "file": "brown/rattata-shiny.png",
+    "filename": "rattata-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 19,
+    "name": "rattata",
+    "file": "brown/rattata.png",
+    "filename": "rattata.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 20,
+    "name": "raticate",
+    "file": "brown/raticate-shiny.png",
+    "filename": "raticate-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 20,
+    "name": "raticate",
+    "file": "brown/raticate.png",
+    "filename": "raticate.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 21,
+    "name": "spearow",
+    "file": "brown/spearow-shiny.png",
+    "filename": "spearow-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 21,
+    "name": "spearow",
+    "file": "brown/spearow.png",
+    "filename": "spearow.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 22,
+    "name": "fearow",
+    "file": "brown/fearow-shiny.png",
+    "filename": "fearow-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 22,
+    "name": "fearow",
+    "file": "brown/fearow.png",
+    "filename": "fearow.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 23,
+    "name": "ekans",
+    "file": "purple/ekans-shiny.png",
+    "filename": "ekans-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 23,
+    "name": "ekans",
+    "file": "purple/ekans.png",
+    "filename": "ekans.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 24,
+    "name": "arbok",
+    "file": "purple/arbok-shiny.png",
+    "filename": "arbok-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 24,
+    "name": "arbok",
+    "file": "purple/arbok.png",
+    "filename": "arbok.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 25,
+    "name": "pikachu",
+    "file": "yellow/pikachu-shiny.png",
+    "filename": "pikachu-shiny.png",
+    "colour": "yellow",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 25,
+    "name": "pikachu",
+    "file": "yellow/pikachu.png",
+    "filename": "pikachu.png",
+    "colour": "yellow",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 26,
+    "name": "raichu",
+    "file": "yellow/raichu-shiny.png",
+    "filename": "raichu-shiny.png",
+    "colour": "yellow",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 26,
+    "name": "raichu",
+    "file": "yellow/raichu.png",
+    "filename": "raichu.png",
+    "colour": "yellow",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 27,
+    "name": "sandshrew",
+    "file": "brown/sandshrew-shiny.png",
+    "filename": "sandshrew-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 27,
+    "name": "sandshrew",
+    "file": "brown/sandshrew.png",
+    "filename": "sandshrew.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 28,
+    "name": "sandslash",
+    "file": "brown/sandslash-shiny.png",
+    "filename": "sandslash-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 28,
+    "name": "sandslash",
+    "file": "brown/sandslash.png",
+    "filename": "sandslash.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 29,
+    "name": "nidoran-f",
+    "file": "blue/nidoran-f-shiny.png",
+    "filename": "nidoran-f-shiny.png",
+    "colour": "blue",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 29,
+    "name": "nidoran-f",
+    "file": "blue/nidoran-f.png",
+    "filename": "nidoran-f.png",
+    "colour": "blue",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 30,
+    "name": "nidorina",
+    "file": "blue/nidorina-shiny.png",
+    "filename": "nidorina-shiny.png",
+    "colour": "blue",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 30,
+    "name": "nidorina",
+    "file": "blue/nidorina.png",
+    "filename": "nidorina.png",
+    "colour": "blue",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 31,
+    "name": "nidoqueen",
+    "file": "blue/nidoqueen-shiny.png",
+    "filename": "nidoqueen-shiny.png",
+    "colour": "blue",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 31,
+    "name": "nidoqueen",
+    "file": "blue/nidoqueen.png",
+    "filename": "nidoqueen.png",
+    "colour": "blue",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 32,
+    "name": "nidoran-m",
+    "file": "purple/nidoran-m-shiny.png",
+    "filename": "nidoran-m-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 32,
+    "name": "nidoran-m",
+    "file": "purple/nidoran-m.png",
+    "filename": "nidoran-m.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 33,
+    "name": "nidorino",
+    "file": "purple/nidorino-shiny.png",
+    "filename": "nidorino-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 33,
+    "name": "nidorino",
+    "file": "purple/nidorino.png",
+    "filename": "nidorino.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 34,
+    "name": "nidoking",
+    "file": "purple/nidoking-shiny.png",
+    "filename": "nidoking-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 34,
+    "name": "nidoking",
+    "file": "purple/nidoking.png",
+    "filename": "nidoking.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 35,
+    "name": "clefairy",
+    "file": "pink/clefairy-shiny.png",
+    "filename": "clefairy-shiny.png",
+    "colour": "pink",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 35,
+    "name": "clefairy",
+    "file": "pink/clefairy.png",
+    "filename": "clefairy.png",
+    "colour": "pink",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 36,
+    "name": "clefable",
+    "file": "pink/clefable-shiny.png",
+    "filename": "clefable-shiny.png",
+    "colour": "pink",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 36,
+    "name": "clefable",
+    "file": "pink/clefable.png",
+    "filename": "clefable.png",
+    "colour": "pink",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 37,
+    "name": "vulpix",
+    "file": "red/vulpix-shiny.png",
+    "filename": "vulpix-shiny.png",
+    "colour": "red",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 37,
+    "name": "vulpix",
+    "file": "red/vulpix.png",
+    "filename": "vulpix.png",
+    "colour": "red",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 38,
+    "name": "ninetales",
+    "file": "red/ninetales-shiny.png",
+    "filename": "ninetales-shiny.png",
+    "colour": "red",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 38,
+    "name": "ninetales",
+    "file": "red/ninetales.png",
+    "filename": "ninetales.png",
+    "colour": "red",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 39,
+    "name": "jigglypuff",
+    "file": "pink/jigglypuff-shiny.png",
+    "filename": "jigglypuff-shiny.png",
+    "colour": "pink",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 39,
+    "name": "jigglypuff",
+    "file": "pink/jigglypuff.png",
+    "filename": "jigglypuff.png",
+    "colour": "pink",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 40,
+    "name": "wigglytuff",
+    "file": "pink/wigglytuff-shiny.png",
+    "filename": "wigglytuff-shiny.png",
+    "colour": "pink",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 40,
+    "name": "wigglytuff",
+    "file": "pink/wigglytuff.png",
+    "filename": "wigglytuff.png",
+    "colour": "pink",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 41,
+    "name": "zubat",
+    "file": "purple/zubat-shiny.png",
+    "filename": "zubat-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 41,
+    "name": "zubat",
+    "file": "purple/zubat.png",
+    "filename": "zubat.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 42,
+    "name": "golbat",
+    "file": "purple/golbat-shiny.png",
+    "filename": "golbat-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 42,
+    "name": "golbat",
+    "file": "purple/golbat.png",
+    "filename": "golbat.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 43,
+    "name": "oddish",
+    "file": "green/oddish-shiny.png",
+    "filename": "oddish-shiny.png",
+    "colour": "green",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 43,
+    "name": "oddish",
+    "file": "green/oddish.png",
+    "filename": "oddish.png",
+    "colour": "green",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 44,
+    "name": "gloom",
+    "file": "green/gloom-shiny.png",
+    "filename": "gloom-shiny.png",
+    "colour": "green",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 44,
+    "name": "gloom",
+    "file": "green/gloom.png",
+    "filename": "gloom.png",
+    "colour": "green",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 45,
+    "name": "vileplume",
+    "file": "green/vileplume-shiny.png",
+    "filename": "vileplume-shiny.png",
+    "colour": "green",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 45,
+    "name": "vileplume",
+    "file": "green/vileplume.png",
+    "filename": "vileplume.png",
+    "colour": "green",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 46,
+    "name": "paras",
+    "file": "green/paras-shiny.png",
+    "filename": "paras-shiny.png",
+    "colour": "green",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 46,
+    "name": "paras",
+    "file": "green/paras.png",
+    "filename": "paras.png",
+    "colour": "green",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 47,
+    "name": "parasect",
+    "file": "green/parasect-shiny.png",
+    "filename": "parasect-shiny.png",
+    "colour": "green",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 47,
+    "name": "parasect",
+    "file": "green/parasect.png",
+    "filename": "parasect.png",
+    "colour": "green",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 48,
+    "name": "venonat",
+    "file": "purple/venonat-shiny.png",
+    "filename": "venonat-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 48,
+    "name": "venonat",
+    "file": "purple/venonat.png",
+    "filename": "venonat.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 49,
+    "name": "venomoth",
+    "file": "purple/venomoth-shiny.png",
+    "filename": "venomoth-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 49,
+    "name": "venomoth",
+    "file": "purple/venomoth.png",
+    "filename": "venomoth.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 50,
+    "name": "diglett",
+    "file": "brown/diglett-shiny.png",
+    "filename": "diglett-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 50,
+    "name": "diglett",
+    "file": "brown/diglett.png",
+    "filename": "diglett.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 51,
+    "name": "dugtrio",
+    "file": "brown/dugtrio-shiny.png",
+    "filename": "dugtrio-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 51,
+    "name": "dugtrio",
+    "file": "brown/dugtrio.png",
+    "filename": "dugtrio.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 52,
+    "name": "meowth",
+    "file": "brown/meowth-shiny.png",
+    "filename": "meowth-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 52,
+    "name": "meowth",
+    "file": "brown/meowth.png",
+    "filename": "meowth.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 53,
+    "name": "persian",
+    "file": "brown/persian-shiny.png",
+    "filename": "persian-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 53,
+    "name": "persian",
+    "file": "brown/persian.png",
+    "filename": "persian.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 54,
+    "name": "psyduck",
+    "file": "blue/psyduck-shiny.png",
+    "filename": "psyduck-shiny.png",
+    "colour": "blue",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 54,
+    "name": "psyduck",
+    "file": "blue/psyduck.png",
+    "filename": "psyduck.png",
+    "colour": "blue",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 55,
+    "name": "golduck",
+    "file": "blue/golduck-shiny.png",
+    "filename": "golduck-shiny.png",
+    "colour": "blue",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 55,
+    "name": "golduck",
+    "file": "blue/golduck.png",
+    "filename": "golduck.png",
+    "colour": "blue",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 56,
+    "name": "mankey",
+    "file": "brown/mankey-shiny.png",
+    "filename": "mankey-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 56,
+    "name": "mankey",
+    "file": "brown/mankey.png",
+    "filename": "mankey.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 57,
+    "name": "primeape",
+    "file": "brown/primeape-shiny.png",
+    "filename": "primeape-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 57,
+    "name": "primeape",
+    "file": "brown/primeape.png",
+    "filename": "primeape.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 58,
+    "name": "growlithe",
+    "file": "brown/growlithe-shiny.png",
+    "filename": "growlithe-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 58,
+    "name": "growlithe",
+    "file": "brown/growlithe.png",
+    "filename": "growlithe.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 59,
+    "name": "arcanine",
+    "file": "brown/arcanine-shiny.png",
+    "filename": "arcanine-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 59,
+    "name": "arcanine",
+    "file": "brown/arcanine.png",
+    "filename": "arcanine.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 60,
+    "name": "poliwag",
+    "file": "blue/poliwag-shiny.png",
+    "filename": "poliwag-shiny.png",
+    "colour": "blue",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 60,
+    "name": "poliwag",
+    "file": "blue/poliwag.png",
+    "filename": "poliwag.png",
+    "colour": "blue",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 61,
+    "name": "poliwhirl",
+    "file": "blue/poliwhirl-shiny.png",
+    "filename": "poliwhirl-shiny.png",
+    "colour": "blue",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 61,
+    "name": "poliwhirl",
+    "file": "blue/poliwhirl.png",
+    "filename": "poliwhirl.png",
+    "colour": "blue",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 62,
+    "name": "poliwrath",
+    "file": "blue/poliwrath-shiny.png",
+    "filename": "poliwrath-shiny.png",
+    "colour": "blue",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 62,
+    "name": "poliwrath",
+    "file": "blue/poliwrath.png",
+    "filename": "poliwrath.png",
+    "colour": "blue",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 63,
+    "name": "abra",
+    "file": "yellow/abra-shiny.png",
+    "filename": "abra-shiny.png",
+    "colour": "yellow",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 63,
+    "name": "abra",
+    "file": "yellow/abra.png",
+    "filename": "abra.png",
+    "colour": "yellow",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 64,
+    "name": "kadabra",
+    "file": "yellow/kadabra-shiny.png",
+    "filename": "kadabra-shiny.png",
+    "colour": "yellow",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 64,
+    "name": "kadabra",
+    "file": "yellow/kadabra.png",
+    "filename": "kadabra.png",
+    "colour": "yellow",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 65,
+    "name": "alakazam",
+    "file": "yellow/alakazam-shiny.png",
+    "filename": "alakazam-shiny.png",
+    "colour": "yellow",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 65,
+    "name": "alakazam",
+    "file": "yellow/alakazam.png",
+    "filename": "alakazam.png",
+    "colour": "yellow",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 66,
+    "name": "machop",
+    "file": "brown/machop-shiny.png",
+    "filename": "machop-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 66,
+    "name": "machop",
+    "file": "brown/machop.png",
+    "filename": "machop.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 67,
+    "name": "machoke",
+    "file": "brown/machoke-shiny.png",
+    "filename": "machoke-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 67,
+    "name": "machoke",
+    "file": "brown/machoke.png",
+    "filename": "machoke.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 68,
+    "name": "machamp",
+    "file": "brown/machamp-shiny.png",
+    "filename": "machamp-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 68,
+    "name": "machamp",
+    "file": "brown/machamp.png",
+    "filename": "machamp.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 69,
+    "name": "bellsprout",
+    "file": "green/bellsprout-shiny.png",
+    "filename": "bellsprout-shiny.png",
+    "colour": "green",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 69,
+    "name": "bellsprout",
+    "file": "green/bellsprout.png",
+    "filename": "bellsprout.png",
+    "colour": "green",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 70,
+    "name": "weepinbell",
+    "file": "green/weepinbell-shiny.png",
+    "filename": "weepinbell-shiny.png",
+    "colour": "green",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 70,
+    "name": "weepinbell",
+    "file": "green/weepinbell.png",
+    "filename": "weepinbell.png",
+    "colour": "green",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 71,
+    "name": "victreebel",
+    "file": "green/victreebel-shiny.png",
+    "filename": "victreebel-shiny.png",
+    "colour": "green",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 71,
+    "name": "victreebel",
+    "file": "green/victreebel.png",
+    "filename": "victreebel.png",
+    "colour": "green",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 72,
+    "name": "tentacool",
+    "file": "blue/tentacool-shiny.png",
+    "filename": "tentacool-shiny.png",
+    "colour": "blue",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 72,
+    "name": "tentacool",
+    "file": "blue/tentacool.png",
+    "filename": "tentacool.png",
+    "colour": "blue",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 73,
+    "name": "tentacruel",
+    "file": "blue/tentacruel-shiny.png",
+    "filename": "tentacruel-shiny.png",
+    "colour": "blue",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 73,
+    "name": "tentacruel",
+    "file": "blue/tentacruel.png",
+    "filename": "tentacruel.png",
+    "colour": "blue",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 74,
+    "name": "geodude",
+    "file": "brown/geodude-shiny.png",
+    "filename": "geodude-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 74,
+    "name": "geodude",
+    "file": "brown/geodude.png",
+    "filename": "geodude.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 75,
+    "name": "graveler",
+    "file": "brown/graveler-shiny.png",
+    "filename": "graveler-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 75,
+    "name": "graveler",
+    "file": "brown/graveler.png",
+    "filename": "graveler.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 76,
+    "name": "golem",
+    "file": "brown/golem-shiny.png",
+    "filename": "golem-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 76,
+    "name": "golem",
+    "file": "brown/golem.png",
+    "filename": "golem.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 77,
+    "name": "ponyta",
+    "file": "brown/ponyta-shiny.png",
+    "filename": "ponyta-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 77,
+    "name": "ponyta",
+    "file": "brown/ponyta.png",
+    "filename": "ponyta.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 78,
+    "name": "rapidash",
+    "file": "brown/rapidash-shiny.png",
+    "filename": "rapidash-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 78,
+    "name": "rapidash",
+    "file": "brown/rapidash.png",
+    "filename": "rapidash.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 79,
+    "name": "slowpoke",
+    "file": "pink/slowpoke-shiny.png",
+    "filename": "slowpoke-shiny.png",
+    "colour": "pink",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 79,
+    "name": "slowpoke",
+    "file": "pink/slowpoke.png",
+    "filename": "slowpoke.png",
+    "colour": "pink",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 80,
+    "name": "slowbro",
+    "file": "pink/slowbro-shiny.png",
+    "filename": "slowbro-shiny.png",
+    "colour": "pink",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 80,
+    "name": "slowbro",
+    "file": "pink/slowbro.png",
+    "filename": "slowbro.png",
+    "colour": "pink",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 81,
+    "name": "magnemite",
+    "file": "grey/magnemite-shiny.png",
+    "filename": "magnemite-shiny.png",
+    "colour": "grey",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 81,
+    "name": "magnemite",
+    "file": "grey/magnemite.png",
+    "filename": "magnemite.png",
+    "colour": "grey",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 82,
+    "name": "magneton",
+    "file": "grey/magneton-shiny.png",
+    "filename": "magneton-shiny.png",
+    "colour": "grey",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 82,
+    "name": "magneton",
+    "file": "grey/magneton.png",
+    "filename": "magneton.png",
+    "colour": "grey",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 83,
+    "name": "farfetchd",
+    "file": "green/farfetchd-shiny.png",
+    "filename": "farfetchd-shiny.png",
+    "colour": "green",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 83,
+    "name": "farfetchd",
+    "file": "green/farfetchd.png",
+    "filename": "farfetchd.png",
+    "colour": "green",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 84,
+    "name": "doduo",
+    "file": "brown/doduo-shiny.png",
+    "filename": "doduo-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 84,
+    "name": "doduo",
+    "file": "brown/doduo.png",
+    "filename": "doduo.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 85,
+    "name": "dodrio",
+    "file": "brown/dodrio-shiny.png",
+    "filename": "dodrio-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 85,
+    "name": "dodrio",
+    "file": "brown/dodrio.png",
+    "filename": "dodrio.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 86,
+    "name": "seel",
+    "file": "blue/seel-shiny.png",
+    "filename": "seel-shiny.png",
+    "colour": "blue",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 86,
+    "name": "seel",
+    "file": "blue/seel.png",
+    "filename": "seel.png",
+    "colour": "blue",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 87,
+    "name": "dewgong",
+    "file": "blue/dewgong-shiny.png",
+    "filename": "dewgong-shiny.png",
+    "colour": "blue",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 87,
+    "name": "dewgong",
+    "file": "blue/dewgong.png",
+    "filename": "dewgong.png",
+    "colour": "blue",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 88,
+    "name": "grimer",
+    "file": "purple/grimer-shiny.png",
+    "filename": "grimer-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 88,
+    "name": "grimer",
+    "file": "purple/grimer.png",
+    "filename": "grimer.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 89,
+    "name": "muk",
+    "file": "purple/muk-shiny.png",
+    "filename": "muk-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 89,
+    "name": "muk",
+    "file": "purple/muk.png",
+    "filename": "muk.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 90,
+    "name": "shellder",
+    "file": "blue/shellder-shiny.png",
+    "filename": "shellder-shiny.png",
+    "colour": "blue",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 90,
+    "name": "shellder",
+    "file": "blue/shellder.png",
+    "filename": "shellder.png",
+    "colour": "blue",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 91,
+    "name": "cloyster",
+    "file": "blue/cloyster-shiny.png",
+    "filename": "cloyster-shiny.png",
+    "colour": "blue",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 91,
+    "name": "cloyster",
+    "file": "blue/cloyster.png",
+    "filename": "cloyster.png",
+    "colour": "blue",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 92,
+    "name": "gastly",
+    "file": "purple/gastly-shiny.png",
+    "filename": "gastly-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 92,
+    "name": "gastly",
+    "file": "purple/gastly.png",
+    "filename": "gastly.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 93,
+    "name": "haunter",
+    "file": "purple/haunter-shiny.png",
+    "filename": "haunter-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 93,
+    "name": "haunter",
+    "file": "purple/haunter.png",
+    "filename": "haunter.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 94,
+    "name": "gengar",
+    "file": "purple/gengar-shiny.png",
+    "filename": "gengar-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 94,
+    "name": "gengar",
+    "file": "purple/gengar.png",
+    "filename": "gengar.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 95,
+    "name": "onix",
+    "file": "grey/onix-shiny.png",
+    "filename": "onix-shiny.png",
+    "colour": "grey",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 95,
+    "name": "onix",
+    "file": "grey/onix.png",
+    "filename": "onix.png",
+    "colour": "grey",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 96,
+    "name": "drowzee",
+    "file": "yellow/drowzee-shiny.png",
+    "filename": "drowzee-shiny.png",
+    "colour": "yellow",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 96,
+    "name": "drowzee",
+    "file": "yellow/drowzee.png",
+    "filename": "drowzee.png",
+    "colour": "yellow",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 97,
+    "name": "hypno",
+    "file": "yellow/hypno-shiny.png",
+    "filename": "hypno-shiny.png",
+    "colour": "yellow",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 97,
+    "name": "hypno",
+    "file": "yellow/hypno.png",
+    "filename": "hypno.png",
+    "colour": "yellow",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 98,
+    "name": "krabby",
+    "file": "red/krabby-shiny.png",
+    "filename": "krabby-shiny.png",
+    "colour": "red",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 98,
+    "name": "krabby",
+    "file": "red/krabby.png",
+    "filename": "krabby.png",
+    "colour": "red",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 99,
+    "name": "kingler",
+    "file": "red/kingler-shiny.png",
+    "filename": "kingler-shiny.png",
+    "colour": "red",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 99,
+    "name": "kingler",
+    "file": "red/kingler.png",
+    "filename": "kingler.png",
+    "colour": "red",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 100,
+    "name": "voltorb",
+    "file": "red/voltorb-shiny.png",
+    "filename": "voltorb-shiny.png",
+    "colour": "red",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 100,
+    "name": "voltorb",
+    "file": "red/voltorb.png",
+    "filename": "voltorb.png",
+    "colour": "red",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 101,
+    "name": "electrode",
+    "file": "red/electrode-shiny.png",
+    "filename": "electrode-shiny.png",
+    "colour": "red",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 101,
+    "name": "electrode",
+    "file": "red/electrode.png",
+    "filename": "electrode.png",
+    "colour": "red",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 102,
+    "name": "exeggcute",
+    "file": "green/exeggcute-shiny.png",
+    "filename": "exeggcute-shiny.png",
+    "colour": "green",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 102,
+    "name": "exeggcute",
+    "file": "green/exeggcute.png",
+    "filename": "exeggcute.png",
+    "colour": "green",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 103,
+    "name": "exeggutor",
+    "file": "green/exeggutor-shiny.png",
+    "filename": "exeggutor-shiny.png",
+    "colour": "green",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 103,
+    "name": "exeggutor",
+    "file": "green/exeggutor.png",
+    "filename": "exeggutor.png",
+    "colour": "green",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 104,
+    "name": "cubone",
+    "file": "brown/cubone-shiny.png",
+    "filename": "cubone-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 104,
+    "name": "cubone",
+    "file": "brown/cubone.png",
+    "filename": "cubone.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 105,
+    "name": "marowak",
+    "file": "brown/marowak-shiny.png",
+    "filename": "marowak-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 105,
+    "name": "marowak",
+    "file": "brown/marowak.png",
+    "filename": "marowak.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 106,
+    "name": "hitmonlee",
+    "file": "brown/hitmonlee-shiny.png",
+    "filename": "hitmonlee-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 106,
+    "name": "hitmonlee",
+    "file": "brown/hitmonlee.png",
+    "filename": "hitmonlee.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 107,
+    "name": "hitmonchan",
+    "file": "brown/hitmonchan-shiny.png",
+    "filename": "hitmonchan-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 107,
+    "name": "hitmonchan",
+    "file": "brown/hitmonchan.png",
+    "filename": "hitmonchan.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 108,
+    "name": "lickitung",
+    "file": "brown/lickitung-shiny.png",
+    "filename": "lickitung-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 108,
+    "name": "lickitung",
+    "file": "brown/lickitung.png",
+    "filename": "lickitung.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 109,
+    "name": "koffing",
+    "file": "purple/koffing-shiny.png",
+    "filename": "koffing-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 109,
+    "name": "koffing",
+    "file": "purple/koffing.png",
+    "filename": "koffing.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 110,
+    "name": "weezing",
+    "file": "purple/weezing-shiny.png",
+    "filename": "weezing-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 110,
+    "name": "weezing",
+    "file": "purple/weezing.png",
+    "filename": "weezing.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 111,
+    "name": "rhyhorn",
+    "file": "brown/rhyhorn-shiny.png",
+    "filename": "rhyhorn-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 111,
+    "name": "rhyhorn",
+    "file": "brown/rhyhorn.png",
+    "filename": "rhyhorn.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 112,
+    "name": "rhydon",
+    "file": "brown/rhydon-shiny.png",
+    "filename": "rhydon-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 112,
+    "name": "rhydon",
+    "file": "brown/rhydon.png",
+    "filename": "rhydon.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 113,
+    "name": "chansey",
+    "file": "pink/chansey-shiny.png",
+    "filename": "chansey-shiny.png",
+    "colour": "pink",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 113,
+    "name": "chansey",
+    "file": "pink/chansey.png",
+    "filename": "chansey.png",
+    "colour": "pink",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 114,
+    "name": "tangela",
+    "file": "blue/tangela-shiny.png",
+    "filename": "tangela-shiny.png",
+    "colour": "blue",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 114,
+    "name": "tangela",
+    "file": "blue/tangela.png",
+    "filename": "tangela.png",
+    "colour": "blue",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 115,
+    "name": "kangaskhan",
+    "file": "brown/kangaskhan-shiny.png",
+    "filename": "kangaskhan-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 115,
+    "name": "kangaskhan",
+    "file": "brown/kangaskhan.png",
+    "filename": "kangaskhan.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 116,
+    "name": "horsea",
+    "file": "blue/horsea-shiny.png",
+    "filename": "horsea-shiny.png",
+    "colour": "blue",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 116,
+    "name": "horsea",
+    "file": "blue/horsea.png",
+    "filename": "horsea.png",
+    "colour": "blue",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 117,
+    "name": "seadra",
+    "file": "blue/seadra-shiny.png",
+    "filename": "seadra-shiny.png",
+    "colour": "blue",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 117,
+    "name": "seadra",
+    "file": "blue/seadra.png",
+    "filename": "seadra.png",
+    "colour": "blue",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 118,
+    "name": "goldeen",
+    "file": "red/goldeen-shiny.png",
+    "filename": "goldeen-shiny.png",
+    "colour": "red",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 118,
+    "name": "goldeen",
+    "file": "red/goldeen.png",
+    "filename": "goldeen.png",
+    "colour": "red",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 119,
+    "name": "seaking",
+    "file": "red/seaking-shiny.png",
+    "filename": "seaking-shiny.png",
+    "colour": "red",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 119,
+    "name": "seaking",
+    "file": "red/seaking.png",
+    "filename": "seaking.png",
+    "colour": "red",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 120,
+    "name": "staryu",
+    "file": "blue/staryu-shiny.png",
+    "filename": "staryu-shiny.png",
+    "colour": "blue",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 120,
+    "name": "staryu",
+    "file": "blue/staryu.png",
+    "filename": "staryu.png",
+    "colour": "blue",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 121,
+    "name": "starmie",
+    "file": "blue/starmie-shiny.png",
+    "filename": "starmie-shiny.png",
+    "colour": "blue",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 121,
+    "name": "starmie",
+    "file": "blue/starmie.png",
+    "filename": "starmie.png",
+    "colour": "blue",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 122,
+    "name": "mr-mime",
+    "file": "pink/mr-mime-shiny.png",
+    "filename": "mr-mime-shiny.png",
+    "colour": "pink",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 122,
+    "name": "mr-mime",
+    "file": "pink/mr-mime.png",
+    "filename": "mr-mime.png",
+    "colour": "pink",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 123,
+    "name": "scyther",
+    "file": "green/scyther-shiny.png",
+    "filename": "scyther-shiny.png",
+    "colour": "green",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 123,
+    "name": "scyther",
+    "file": "green/scyther.png",
+    "filename": "scyther.png",
+    "colour": "green",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 124,
+    "name": "jynx",
+    "file": "purple/jynx-shiny.png",
+    "filename": "jynx-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 124,
+    "name": "jynx",
+    "file": "purple/jynx.png",
+    "filename": "jynx.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 125,
+    "name": "electabuzz",
+    "file": "yellow/electabuzz-shiny.png",
+    "filename": "electabuzz-shiny.png",
+    "colour": "yellow",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 125,
+    "name": "electabuzz",
+    "file": "yellow/electabuzz.png",
+    "filename": "electabuzz.png",
+    "colour": "yellow",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 126,
+    "name": "magmar",
+    "file": "red/magmar-shiny.png",
+    "filename": "magmar-shiny.png",
+    "colour": "red",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 126,
+    "name": "magmar",
+    "file": "red/magmar.png",
+    "filename": "magmar.png",
+    "colour": "red",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 127,
+    "name": "pinsir",
+    "file": "brown/pinsir-shiny.png",
+    "filename": "pinsir-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 127,
+    "name": "pinsir",
+    "file": "brown/pinsir.png",
+    "filename": "pinsir.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 128,
+    "name": "tauros",
+    "file": "brown/tauros-shiny.png",
+    "filename": "tauros-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 128,
+    "name": "tauros",
+    "file": "brown/tauros.png",
+    "filename": "tauros.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 129,
+    "name": "magikarp",
+    "file": "red/magikarp-shiny.png",
+    "filename": "magikarp-shiny.png",
+    "colour": "red",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 129,
+    "name": "magikarp",
+    "file": "red/magikarp.png",
+    "filename": "magikarp.png",
+    "colour": "red",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 130,
+    "name": "gyarados",
+    "file": "blue/gyarados-shiny.png",
+    "filename": "gyarados-shiny.png",
+    "colour": "blue",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 130,
+    "name": "gyarados",
+    "file": "blue/gyarados.png",
+    "filename": "gyarados.png",
+    "colour": "blue",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 131,
+    "name": "lapras",
+    "file": "blue/lapras-shiny.png",
+    "filename": "lapras-shiny.png",
+    "colour": "blue",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 131,
+    "name": "lapras",
+    "file": "blue/lapras.png",
+    "filename": "lapras.png",
+    "colour": "blue",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 132,
+    "name": "ditto",
+    "file": "purple/ditto-shiny.png",
+    "filename": "ditto-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 132,
+    "name": "ditto",
+    "file": "purple/ditto.png",
+    "filename": "ditto.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 133,
+    "name": "eevee",
+    "file": "brown/eevee-shiny.png",
+    "filename": "eevee-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 133,
+    "name": "eevee",
+    "file": "brown/eevee.png",
+    "filename": "eevee.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 134,
+    "name": "vaporeon",
+    "file": "blue/vaporeon-shiny.png",
+    "filename": "vaporeon-shiny.png",
+    "colour": "blue",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 134,
+    "name": "vaporeon",
+    "file": "blue/vaporeon.png",
+    "filename": "vaporeon.png",
+    "colour": "blue",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 135,
+    "name": "jolteon",
+    "file": "yellow/jolteon-shiny.png",
+    "filename": "jolteon-shiny.png",
+    "colour": "yellow",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 135,
+    "name": "jolteon",
+    "file": "yellow/jolteon.png",
+    "filename": "jolteon.png",
+    "colour": "yellow",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 136,
+    "name": "flareon",
+    "file": "red/flareon-shiny.png",
+    "filename": "flareon-shiny.png",
+    "colour": "red",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 136,
+    "name": "flareon",
+    "file": "red/flareon.png",
+    "filename": "flareon.png",
+    "colour": "red",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 137,
+    "name": "porygon",
+    "file": "brown/porygon-shiny.png",
+    "filename": "porygon-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 137,
+    "name": "porygon",
+    "file": "brown/porygon.png",
+    "filename": "porygon.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 138,
+    "name": "omanyte",
+    "file": "grey/omanyte-shiny.png",
+    "filename": "omanyte-shiny.png",
+    "colour": "grey",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 138,
+    "name": "omanyte",
+    "file": "grey/omanyte.png",
+    "filename": "omanyte.png",
+    "colour": "grey",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 139,
+    "name": "omastar",
+    "file": "grey/omastar-shiny.png",
+    "filename": "omastar-shiny.png",
+    "colour": "grey",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 139,
+    "name": "omastar",
+    "file": "grey/omastar.png",
+    "filename": "omastar.png",
+    "colour": "grey",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 140,
+    "name": "kabuto",
+    "file": "brown/kabuto-shiny.png",
+    "filename": "kabuto-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 140,
+    "name": "kabuto",
+    "file": "brown/kabuto.png",
+    "filename": "kabuto.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 141,
+    "name": "kabutops",
+    "file": "brown/kabutops-shiny.png",
+    "filename": "kabutops-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 141,
+    "name": "kabutops",
+    "file": "brown/kabutops.png",
+    "filename": "kabutops.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 142,
+    "name": "aerodactyl",
+    "file": "brown/aerodactyl-shiny.png",
+    "filename": "aerodactyl-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 142,
+    "name": "aerodactyl",
+    "file": "brown/aerodactyl.png",
+    "filename": "aerodactyl.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 143,
+    "name": "snorlax",
+    "file": "brown/snorlax-shiny.png",
+    "filename": "snorlax-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 143,
+    "name": "snorlax",
+    "file": "brown/snorlax.png",
+    "filename": "snorlax.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 144,
+    "name": "articuno",
+    "file": "white/articuno-shiny.png",
+    "filename": "articuno-shiny.png",
+    "colour": "white",
+    "shiny": true,
+    "legendary": true
+  },
+  {
+    "dex": 144,
+    "name": "articuno",
+    "file": "white/articuno.png",
+    "filename": "articuno.png",
+    "colour": "white",
+    "shiny": false,
+    "legendary": true
+  },
+  {
+    "dex": 145,
+    "name": "zapdos",
+    "file": "yellow/zapdos-shiny.png",
+    "filename": "zapdos-shiny.png",
+    "colour": "yellow",
+    "shiny": true,
+    "legendary": true
+  },
+  {
+    "dex": 145,
+    "name": "zapdos",
+    "file": "yellow/zapdos.png",
+    "filename": "zapdos.png",
+    "colour": "yellow",
+    "shiny": false,
+    "legendary": true
+  },
+  {
+    "dex": 146,
+    "name": "moltres",
+    "file": "red/moltres-shiny.png",
+    "filename": "moltres-shiny.png",
+    "colour": "red",
+    "shiny": true,
+    "legendary": true
+  },
+  {
+    "dex": 146,
+    "name": "moltres",
+    "file": "red/moltres.png",
+    "filename": "moltres.png",
+    "colour": "red",
+    "shiny": false,
+    "legendary": true
+  },
+  {
+    "dex": 147,
+    "name": "dratini",
+    "file": "blue/dratini-shiny.png",
+    "filename": "dratini-shiny.png",
+    "colour": "blue",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 147,
+    "name": "dratini",
+    "file": "blue/dratini.png",
+    "filename": "dratini.png",
+    "colour": "blue",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 148,
+    "name": "dragonair",
+    "file": "blue/dragonair-shiny.png",
+    "filename": "dragonair-shiny.png",
+    "colour": "blue",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 148,
+    "name": "dragonair",
+    "file": "blue/dragonair.png",
+    "filename": "dragonair.png",
+    "colour": "blue",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 149,
+    "name": "dragonite",
+    "file": "brown/dragonite-shiny.png",
+    "filename": "dragonite-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 149,
+    "name": "dragonite",
+    "file": "brown/dragonite.png",
+    "filename": "dragonite.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 150,
+    "name": "mewtwo",
+    "file": "purple/mewtwo-shiny.png",
+    "filename": "mewtwo-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": true
+  },
+  {
+    "dex": 150,
+    "name": "mewtwo",
+    "file": "purple/mewtwo.png",
+    "filename": "mewtwo.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": true
+  },
+  {
+    "dex": 151,
+    "name": "mew",
+    "file": "pink/mew-shiny.png",
+    "filename": "mew-shiny.png",
+    "colour": "pink",
+    "shiny": true,
+    "legendary": true
+  },
+  {
+    "dex": 151,
+    "name": "mew",
+    "file": "pink/mew.png",
+    "filename": "mew.png",
+    "colour": "pink",
+    "shiny": false,
+    "legendary": true
+  },
+  {
+    "dex": 152,
+    "name": "chikorita",
+    "file": "green/chikorita-shiny.png",
+    "filename": "chikorita-shiny.png",
+    "colour": "green",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 152,
+    "name": "chikorita",
+    "file": "green/chikorita.png",
+    "filename": "chikorita.png",
+    "colour": "green",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 153,
+    "name": "bayleef",
+    "file": "green/bayleef-shiny.png",
+    "filename": "bayleef-shiny.png",
+    "colour": "green",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 153,
+    "name": "bayleef",
+    "file": "green/bayleef.png",
+    "filename": "bayleef.png",
+    "colour": "green",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 154,
+    "name": "meganium",
+    "file": "green/meganium-shiny.png",
+    "filename": "meganium-shiny.png",
+    "colour": "green",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 154,
+    "name": "meganium",
+    "file": "green/meganium.png",
+    "filename": "meganium.png",
+    "colour": "green",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 155,
+    "name": "cyndaquil",
+    "file": "brown/cyndaquil-shiny.png",
+    "filename": "cyndaquil-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 155,
+    "name": "cyndaquil",
+    "file": "brown/cyndaquil.png",
+    "filename": "cyndaquil.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 156,
+    "name": "quilava",
+    "file": "brown/quilava-shiny.png",
+    "filename": "quilava-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 156,
+    "name": "quilava",
+    "file": "brown/quilava.png",
+    "filename": "quilava.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 157,
+    "name": "typhlosion",
+    "file": "brown/typhlosion-shiny.png",
+    "filename": "typhlosion-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 157,
+    "name": "typhlosion",
+    "file": "brown/typhlosion.png",
+    "filename": "typhlosion.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 158,
+    "name": "totodile",
+    "file": "blue/totodile-shiny.png",
+    "filename": "totodile-shiny.png",
+    "colour": "blue",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 158,
+    "name": "totodile",
+    "file": "blue/totodile.png",
+    "filename": "totodile.png",
+    "colour": "blue",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 159,
+    "name": "croconaw",
+    "file": "blue/croconaw-shiny.png",
+    "filename": "croconaw-shiny.png",
+    "colour": "blue",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 159,
+    "name": "croconaw",
+    "file": "blue/croconaw.png",
+    "filename": "croconaw.png",
+    "colour": "blue",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 160,
+    "name": "feraligatr",
+    "file": "blue/feraligatr-shiny.png",
+    "filename": "feraligatr-shiny.png",
+    "colour": "blue",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 160,
+    "name": "feraligatr",
+    "file": "blue/feraligatr.png",
+    "filename": "feraligatr.png",
+    "colour": "blue",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 161,
+    "name": "sentret",
+    "file": "brown/sentret-shiny.png",
+    "filename": "sentret-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 161,
+    "name": "sentret",
+    "file": "brown/sentret.png",
+    "filename": "sentret.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 162,
+    "name": "furret",
+    "file": "brown/furret-shiny.png",
+    "filename": "furret-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 162,
+    "name": "furret",
+    "file": "brown/furret.png",
+    "filename": "furret.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 163,
+    "name": "hoothoot",
+    "file": "brown/hoothoot-shiny.png",
+    "filename": "hoothoot-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 163,
+    "name": "hoothoot",
+    "file": "brown/hoothoot.png",
+    "filename": "hoothoot.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 164,
+    "name": "noctowl",
+    "file": "brown/noctowl-shiny.png",
+    "filename": "noctowl-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 164,
+    "name": "noctowl",
+    "file": "brown/noctowl.png",
+    "filename": "noctowl.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 165,
+    "name": "ledyba",
+    "file": "red/ledyba-shiny.png",
+    "filename": "ledyba-shiny.png",
+    "colour": "red",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 165,
+    "name": "ledyba",
+    "file": "red/ledyba.png",
+    "filename": "ledyba.png",
+    "colour": "red",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 166,
+    "name": "ledian",
+    "file": "red/ledian-shiny.png",
+    "filename": "ledian-shiny.png",
+    "colour": "red",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 166,
+    "name": "ledian",
+    "file": "red/ledian.png",
+    "filename": "ledian.png",
+    "colour": "red",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 167,
+    "name": "spinarak",
+    "file": "red/spinarak-shiny.png",
+    "filename": "spinarak-shiny.png",
+    "colour": "red",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 167,
+    "name": "spinarak",
+    "file": "red/spinarak.png",
+    "filename": "spinarak.png",
+    "colour": "red",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 168,
+    "name": "ariados",
+    "file": "red/ariados-shiny.png",
+    "filename": "ariados-shiny.png",
+    "colour": "red",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 168,
+    "name": "ariados",
+    "file": "red/ariados.png",
+    "filename": "ariados.png",
+    "colour": "red",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 169,
+    "name": "crobat",
+    "file": "purple/crobat-shiny.png",
+    "filename": "crobat-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 169,
+    "name": "crobat",
+    "file": "purple/crobat.png",
+    "filename": "crobat.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 170,
+    "name": "chinchou",
+    "file": "blue/chinchou-shiny.png",
+    "filename": "chinchou-shiny.png",
+    "colour": "blue",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 170,
+    "name": "chinchou",
+    "file": "blue/chinchou.png",
+    "filename": "chinchou.png",
+    "colour": "blue",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 171,
+    "name": "lanturn",
+    "file": "blue/lanturn-shiny.png",
+    "filename": "lanturn-shiny.png",
+    "colour": "blue",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 171,
+    "name": "lanturn",
+    "file": "blue/lanturn.png",
+    "filename": "lanturn.png",
+    "colour": "blue",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 172,
+    "name": "pichu",
+    "file": "yellow/pichu-shiny.png",
+    "filename": "pichu-shiny.png",
+    "colour": "yellow",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 172,
+    "name": "pichu",
+    "file": "yellow/pichu.png",
+    "filename": "pichu.png",
+    "colour": "yellow",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 173,
+    "name": "cleffa",
+    "file": "pink/cleffa-shiny.png",
+    "filename": "cleffa-shiny.png",
+    "colour": "pink",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 173,
+    "name": "cleffa",
+    "file": "pink/cleffa.png",
+    "filename": "cleffa.png",
+    "colour": "pink",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 174,
+    "name": "igglybuff",
+    "file": "pink/igglybuff-shiny.png",
+    "filename": "igglybuff-shiny.png",
+    "colour": "pink",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 174,
+    "name": "igglybuff",
+    "file": "pink/igglybuff.png",
+    "filename": "igglybuff.png",
+    "colour": "pink",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 175,
+    "name": "togepi",
+    "file": "white/togepi-shiny.png",
+    "filename": "togepi-shiny.png",
+    "colour": "white",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 175,
+    "name": "togepi",
+    "file": "white/togepi.png",
+    "filename": "togepi.png",
+    "colour": "white",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 176,
+    "name": "togetic",
+    "file": "white/togetic-shiny.png",
+    "filename": "togetic-shiny.png",
+    "colour": "white",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 176,
+    "name": "togetic",
+    "file": "white/togetic.png",
+    "filename": "togetic.png",
+    "colour": "white",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 177,
+    "name": "natu",
+    "file": "green/natu-shiny.png",
+    "filename": "natu-shiny.png",
+    "colour": "green",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 177,
+    "name": "natu",
+    "file": "green/natu.png",
+    "filename": "natu.png",
+    "colour": "green",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 178,
+    "name": "xatu",
+    "file": "green/xatu-shiny.png",
+    "filename": "xatu-shiny.png",
+    "colour": "green",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 178,
+    "name": "xatu",
+    "file": "green/xatu.png",
+    "filename": "xatu.png",
+    "colour": "green",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 179,
+    "name": "mareep",
+    "file": "yellow/mareep-shiny.png",
+    "filename": "mareep-shiny.png",
+    "colour": "yellow",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 179,
+    "name": "mareep",
+    "file": "yellow/mareep.png",
+    "filename": "mareep.png",
+    "colour": "yellow",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 180,
+    "name": "flaaffy",
+    "file": "yellow/flaaffy-shiny.png",
+    "filename": "flaaffy-shiny.png",
+    "colour": "yellow",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 180,
+    "name": "flaaffy",
+    "file": "yellow/flaaffy.png",
+    "filename": "flaaffy.png",
+    "colour": "yellow",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 181,
+    "name": "ampharos",
+    "file": "yellow/ampharos-shiny.png",
+    "filename": "ampharos-shiny.png",
+    "colour": "yellow",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 181,
+    "name": "ampharos",
+    "file": "yellow/ampharos.png",
+    "filename": "ampharos.png",
+    "colour": "yellow",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 182,
+    "name": "bellossom",
+    "file": "pink/bellossom-shiny.png",
+    "filename": "bellossom-shiny.png",
+    "colour": "pink",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 182,
+    "name": "bellossom",
+    "file": "pink/bellossom.png",
+    "filename": "bellossom.png",
+    "colour": "pink",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 183,
+    "name": "marill",
+    "file": "blue/marill-shiny.png",
+    "filename": "marill-shiny.png",
+    "colour": "blue",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 183,
+    "name": "marill",
+    "file": "blue/marill.png",
+    "filename": "marill.png",
+    "colour": "blue",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 184,
+    "name": "azumarill",
+    "file": "blue/azumarill-shiny.png",
+    "filename": "azumarill-shiny.png",
+    "colour": "blue",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 184,
+    "name": "azumarill",
+    "file": "blue/azumarill.png",
+    "filename": "azumarill.png",
+    "colour": "blue",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 185,
+    "name": "sudowoodo",
+    "file": "brown/sudowoodo-shiny.png",
+    "filename": "sudowoodo-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 185,
+    "name": "sudowoodo",
+    "file": "brown/sudowoodo.png",
+    "filename": "sudowoodo.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 186,
+    "name": "politoed",
+    "file": "green/politoed-shiny.png",
+    "filename": "politoed-shiny.png",
+    "colour": "green",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 186,
+    "name": "politoed",
+    "file": "green/politoed.png",
+    "filename": "politoed.png",
+    "colour": "green",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 187,
+    "name": "hoppip",
+    "file": "green/hoppip-shiny.png",
+    "filename": "hoppip-shiny.png",
+    "colour": "green",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 187,
+    "name": "hoppip",
+    "file": "green/hoppip.png",
+    "filename": "hoppip.png",
+    "colour": "green",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 188,
+    "name": "skiploom",
+    "file": "green/skiploom-shiny.png",
+    "filename": "skiploom-shiny.png",
+    "colour": "green",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 188,
+    "name": "skiploom",
+    "file": "green/skiploom.png",
+    "filename": "skiploom.png",
+    "colour": "green",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 189,
+    "name": "jumpluff",
+    "file": "green/jumpluff-shiny.png",
+    "filename": "jumpluff-shiny.png",
+    "colour": "green",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 189,
+    "name": "jumpluff",
+    "file": "green/jumpluff.png",
+    "filename": "jumpluff.png",
+    "colour": "green",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 190,
+    "name": "aipom",
+    "file": "yellow/aipom-shiny.png",
+    "filename": "aipom-shiny.png",
+    "colour": "yellow",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 190,
+    "name": "aipom",
+    "file": "yellow/aipom.png",
+    "filename": "aipom.png",
+    "colour": "yellow",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 191,
+    "name": "sunkern",
+    "file": "green/sunkern-shiny.png",
+    "filename": "sunkern-shiny.png",
+    "colour": "green",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 191,
+    "name": "sunkern",
+    "file": "green/sunkern.png",
+    "filename": "sunkern.png",
+    "colour": "green",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 192,
+    "name": "sunflora",
+    "file": "green/sunflora-shiny.png",
+    "filename": "sunflora-shiny.png",
+    "colour": "green",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 192,
+    "name": "sunflora",
+    "file": "green/sunflora.png",
+    "filename": "sunflora.png",
+    "colour": "green",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 193,
+    "name": "yanma",
+    "file": "grey/yanma-shiny.png",
+    "filename": "yanma-shiny.png",
+    "colour": "grey",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 193,
+    "name": "yanma",
+    "file": "grey/yanma.png",
+    "filename": "yanma.png",
+    "colour": "grey",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 194,
+    "name": "wooper",
+    "file": "blue/wooper-shiny.png",
+    "filename": "wooper-shiny.png",
+    "colour": "blue",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 194,
+    "name": "wooper",
+    "file": "blue/wooper.png",
+    "filename": "wooper.png",
+    "colour": "blue",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 195,
+    "name": "quagsire",
+    "file": "blue/quagsire-shiny.png",
+    "filename": "quagsire-shiny.png",
+    "colour": "blue",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 195,
+    "name": "quagsire",
+    "file": "blue/quagsire.png",
+    "filename": "quagsire.png",
+    "colour": "blue",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 196,
+    "name": "espeon",
+    "file": "purple/espeon-shiny.png",
+    "filename": "espeon-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 196,
+    "name": "espeon",
+    "file": "purple/espeon.png",
+    "filename": "espeon.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 197,
+    "name": "umbreon",
+    "file": "black/umbreon-shiny.png",
+    "filename": "umbreon-shiny.png",
+    "colour": "black",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 197,
+    "name": "umbreon",
+    "file": "black/umbreon.png",
+    "filename": "umbreon.png",
+    "colour": "black",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 198,
+    "name": "murkrow",
+    "file": "black/murkrow-shiny.png",
+    "filename": "murkrow-shiny.png",
+    "colour": "black",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 198,
+    "name": "murkrow",
+    "file": "black/murkrow.png",
+    "filename": "murkrow.png",
+    "colour": "black",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 199,
+    "name": "slowking",
+    "file": "pink/slowking-shiny.png",
+    "filename": "slowking-shiny.png",
+    "colour": "pink",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 199,
+    "name": "slowking",
+    "file": "pink/slowking.png",
+    "filename": "slowking.png",
+    "colour": "pink",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 200,
+    "name": "misdreavus",
+    "file": "purple/misdreavus-shiny.png",
+    "filename": "misdreavus-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 200,
+    "name": "misdreavus",
+    "file": "purple/misdreavus.png",
+    "filename": "misdreavus.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 201,
+    "name": "unown",
+    "file": "purple/unown-a-shiny.png",
+    "filename": "unown-a-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 201,
+    "name": "unown",
+    "file": "purple/unown-a.png",
+    "filename": "unown-a.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 201,
+    "name": "unown",
+    "file": "purple/unown-b-shiny.png",
+    "filename": "unown-b-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 201,
+    "name": "unown",
+    "file": "purple/unown-b.png",
+    "filename": "unown-b.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 201,
+    "name": "unown",
+    "file": "purple/unown-c-shiny.png",
+    "filename": "unown-c-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 201,
+    "name": "unown",
+    "file": "purple/unown-c.png",
+    "filename": "unown-c.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 201,
+    "name": "unown",
+    "file": "purple/unown-d-shiny.png",
+    "filename": "unown-d-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 201,
+    "name": "unown",
+    "file": "purple/unown-d.png",
+    "filename": "unown-d.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 201,
+    "name": "unown",
+    "file": "purple/unown-e-shiny.png",
+    "filename": "unown-e-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 201,
+    "name": "unown",
+    "file": "purple/unown-e.png",
+    "filename": "unown-e.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 201,
+    "name": "unown",
+    "file": "purple/unown-exclamation-shiny.png",
+    "filename": "unown-exclamation-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 201,
+    "name": "unown",
+    "file": "purple/unown-exclamation.png",
+    "filename": "unown-exclamation.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 201,
+    "name": "unown",
+    "file": "purple/unown-f-shiny.png",
+    "filename": "unown-f-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 201,
+    "name": "unown",
+    "file": "purple/unown-f.png",
+    "filename": "unown-f.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 201,
+    "name": "unown",
+    "file": "purple/unown-g-shiny.png",
+    "filename": "unown-g-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 201,
+    "name": "unown",
+    "file": "purple/unown-g.png",
+    "filename": "unown-g.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 201,
+    "name": "unown",
+    "file": "purple/unown-h-shiny.png",
+    "filename": "unown-h-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 201,
+    "name": "unown",
+    "file": "purple/unown-h.png",
+    "filename": "unown-h.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 201,
+    "name": "unown",
+    "file": "purple/unown-i-shiny.png",
+    "filename": "unown-i-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 201,
+    "name": "unown",
+    "file": "purple/unown-i.png",
+    "filename": "unown-i.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 201,
+    "name": "unown",
+    "file": "purple/unown-j-shiny.png",
+    "filename": "unown-j-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 201,
+    "name": "unown",
+    "file": "purple/unown-j.png",
+    "filename": "unown-j.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 201,
+    "name": "unown",
+    "file": "purple/unown-k-shiny.png",
+    "filename": "unown-k-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 201,
+    "name": "unown",
+    "file": "purple/unown-k.png",
+    "filename": "unown-k.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 201,
+    "name": "unown",
+    "file": "purple/unown-l-shiny.png",
+    "filename": "unown-l-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 201,
+    "name": "unown",
+    "file": "purple/unown-l.png",
+    "filename": "unown-l.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 201,
+    "name": "unown",
+    "file": "purple/unown-m-shiny.png",
+    "filename": "unown-m-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 201,
+    "name": "unown",
+    "file": "purple/unown-m.png",
+    "filename": "unown-m.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 201,
+    "name": "unown",
+    "file": "purple/unown-n-shiny.png",
+    "filename": "unown-n-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 201,
+    "name": "unown",
+    "file": "purple/unown-n.png",
+    "filename": "unown-n.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 201,
+    "name": "unown",
+    "file": "purple/unown-o-shiny.png",
+    "filename": "unown-o-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 201,
+    "name": "unown",
+    "file": "purple/unown-o.png",
+    "filename": "unown-o.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 201,
+    "name": "unown",
+    "file": "purple/unown-p-shiny.png",
+    "filename": "unown-p-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 201,
+    "name": "unown",
+    "file": "purple/unown-p.png",
+    "filename": "unown-p.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 201,
+    "name": "unown",
+    "file": "purple/unown-q-shiny.png",
+    "filename": "unown-q-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 201,
+    "name": "unown",
+    "file": "purple/unown-q.png",
+    "filename": "unown-q.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 201,
+    "name": "unown",
+    "file": "purple/unown-question-shiny.png",
+    "filename": "unown-question-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 201,
+    "name": "unown",
+    "file": "purple/unown-question.png",
+    "filename": "unown-question.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 201,
+    "name": "unown",
+    "file": "purple/unown-r-shiny.png",
+    "filename": "unown-r-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 201,
+    "name": "unown",
+    "file": "purple/unown-r.png",
+    "filename": "unown-r.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 201,
+    "name": "unown",
+    "file": "purple/unown-s-shiny.png",
+    "filename": "unown-s-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 201,
+    "name": "unown",
+    "file": "purple/unown-s.png",
+    "filename": "unown-s.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 201,
+    "name": "unown",
+    "file": "purple/unown-shiny.png",
+    "filename": "unown-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 201,
+    "name": "unown",
+    "file": "purple/unown-t-shiny.png",
+    "filename": "unown-t-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 201,
+    "name": "unown",
+    "file": "purple/unown-t.png",
+    "filename": "unown-t.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 201,
+    "name": "unown",
+    "file": "purple/unown-u-shiny.png",
+    "filename": "unown-u-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 201,
+    "name": "unown",
+    "file": "purple/unown-u.png",
+    "filename": "unown-u.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 201,
+    "name": "unown",
+    "file": "purple/unown-v-shiny.png",
+    "filename": "unown-v-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 201,
+    "name": "unown",
+    "file": "purple/unown-v.png",
+    "filename": "unown-v.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 201,
+    "name": "unown",
+    "file": "purple/unown-w-shiny.png",
+    "filename": "unown-w-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 201,
+    "name": "unown",
+    "file": "purple/unown-w.png",
+    "filename": "unown-w.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 201,
+    "name": "unown",
+    "file": "purple/unown-x-shiny.png",
+    "filename": "unown-x-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 201,
+    "name": "unown",
+    "file": "purple/unown-x.png",
+    "filename": "unown-x.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 201,
+    "name": "unown",
+    "file": "purple/unown-y-shiny.png",
+    "filename": "unown-y-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 201,
+    "name": "unown",
+    "file": "purple/unown-y.png",
+    "filename": "unown-y.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 201,
+    "name": "unown",
+    "file": "purple/unown-z-shiny.png",
+    "filename": "unown-z-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 201,
+    "name": "unown",
+    "file": "purple/unown-z.png",
+    "filename": "unown-z.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 201,
+    "name": "unown",
+    "file": "purple/unown.png",
+    "filename": "unown.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 202,
+    "name": "wobbuffet",
+    "file": "purple/wobbuffet-shiny.png",
+    "filename": "wobbuffet-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 202,
+    "name": "wobbuffet",
+    "file": "purple/wobbuffet.png",
+    "filename": "wobbuffet.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 203,
+    "name": "girafarig",
+    "file": "yellow/girafarig-shiny.png",
+    "filename": "girafarig-shiny.png",
+    "colour": "yellow",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 203,
+    "name": "girafarig",
+    "file": "yellow/girafarig.png",
+    "filename": "girafarig.png",
+    "colour": "yellow",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 204,
+    "name": "pineco",
+    "file": "purple/pineco-shiny.png",
+    "filename": "pineco-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 204,
+    "name": "pineco",
+    "file": "purple/pineco.png",
+    "filename": "pineco.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 205,
+    "name": "forretress",
+    "file": "purple/forretress-shiny.png",
+    "filename": "forretress-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 205,
+    "name": "forretress",
+    "file": "purple/forretress.png",
+    "filename": "forretress.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 206,
+    "name": "dunsparce",
+    "file": "yellow/dunsparce-shiny.png",
+    "filename": "dunsparce-shiny.png",
+    "colour": "yellow",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 206,
+    "name": "dunsparce",
+    "file": "yellow/dunsparce.png",
+    "filename": "dunsparce.png",
+    "colour": "yellow",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 207,
+    "name": "gligar",
+    "file": "brown/gligar-shiny.png",
+    "filename": "gligar-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 207,
+    "name": "gligar",
+    "file": "brown/gligar.png",
+    "filename": "gligar.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 208,
+    "name": "steelix",
+    "file": "grey/steelix-shiny.png",
+    "filename": "steelix-shiny.png",
+    "colour": "grey",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 208,
+    "name": "steelix",
+    "file": "grey/steelix.png",
+    "filename": "steelix.png",
+    "colour": "grey",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 209,
+    "name": "snubbull",
+    "file": "pink/snubbull-shiny.png",
+    "filename": "snubbull-shiny.png",
+    "colour": "pink",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 209,
+    "name": "snubbull",
+    "file": "pink/snubbull.png",
+    "filename": "snubbull.png",
+    "colour": "pink",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 210,
+    "name": "granbull",
+    "file": "pink/granbull-shiny.png",
+    "filename": "granbull-shiny.png",
+    "colour": "pink",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 210,
+    "name": "granbull",
+    "file": "pink/granbull.png",
+    "filename": "granbull.png",
+    "colour": "pink",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 211,
+    "name": "qwilfish",
+    "file": "blue/qwilfish-shiny.png",
+    "filename": "qwilfish-shiny.png",
+    "colour": "blue",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 211,
+    "name": "qwilfish",
+    "file": "blue/qwilfish.png",
+    "filename": "qwilfish.png",
+    "colour": "blue",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 212,
+    "name": "scizor",
+    "file": "red/scizor-shiny.png",
+    "filename": "scizor-shiny.png",
+    "colour": "red",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 212,
+    "name": "scizor",
+    "file": "red/scizor.png",
+    "filename": "scizor.png",
+    "colour": "red",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 213,
+    "name": "shuckle",
+    "file": "yellow/shuckle-shiny.png",
+    "filename": "shuckle-shiny.png",
+    "colour": "yellow",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 213,
+    "name": "shuckle",
+    "file": "yellow/shuckle.png",
+    "filename": "shuckle.png",
+    "colour": "yellow",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 214,
+    "name": "heracross",
+    "file": "purple/heracross-shiny.png",
+    "filename": "heracross-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 214,
+    "name": "heracross",
+    "file": "purple/heracross.png",
+    "filename": "heracross.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 215,
+    "name": "sneasel",
+    "file": "black/sneasel-shiny.png",
+    "filename": "sneasel-shiny.png",
+    "colour": "black",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 215,
+    "name": "sneasel",
+    "file": "black/sneasel.png",
+    "filename": "sneasel.png",
+    "colour": "black",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 216,
+    "name": "teddiursa",
+    "file": "brown/teddiursa-shiny.png",
+    "filename": "teddiursa-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 216,
+    "name": "teddiursa",
+    "file": "brown/teddiursa.png",
+    "filename": "teddiursa.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 217,
+    "name": "ursaring",
+    "file": "brown/ursaring-shiny.png",
+    "filename": "ursaring-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 217,
+    "name": "ursaring",
+    "file": "brown/ursaring.png",
+    "filename": "ursaring.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 218,
+    "name": "slugma",
+    "file": "red/slugma-shiny.png",
+    "filename": "slugma-shiny.png",
+    "colour": "red",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 218,
+    "name": "slugma",
+    "file": "red/slugma.png",
+    "filename": "slugma.png",
+    "colour": "red",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 219,
+    "name": "magcargo",
+    "file": "red/magcargo-shiny.png",
+    "filename": "magcargo-shiny.png",
+    "colour": "red",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 219,
+    "name": "magcargo",
+    "file": "red/magcargo.png",
+    "filename": "magcargo.png",
+    "colour": "red",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 220,
+    "name": "swinub",
+    "file": "brown/swinub-shiny.png",
+    "filename": "swinub-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 220,
+    "name": "swinub",
+    "file": "brown/swinub.png",
+    "filename": "swinub.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 221,
+    "name": "piloswine",
+    "file": "brown/piloswine-shiny.png",
+    "filename": "piloswine-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 221,
+    "name": "piloswine",
+    "file": "brown/piloswine.png",
+    "filename": "piloswine.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 222,
+    "name": "corsola",
+    "file": "red/corsola-shiny.png",
+    "filename": "corsola-shiny.png",
+    "colour": "red",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 222,
+    "name": "corsola",
+    "file": "red/corsola.png",
+    "filename": "corsola.png",
+    "colour": "red",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 223,
+    "name": "remoraid",
+    "file": "grey/remoraid-shiny.png",
+    "filename": "remoraid-shiny.png",
+    "colour": "grey",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 223,
+    "name": "remoraid",
+    "file": "grey/remoraid.png",
+    "filename": "remoraid.png",
+    "colour": "grey",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 224,
+    "name": "octillery",
+    "file": "red/octillery-shiny.png",
+    "filename": "octillery-shiny.png",
+    "colour": "red",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 224,
+    "name": "octillery",
+    "file": "red/octillery.png",
+    "filename": "octillery.png",
+    "colour": "red",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 225,
+    "name": "delibird",
+    "file": "white/delibird-shiny.png",
+    "filename": "delibird-shiny.png",
+    "colour": "white",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 225,
+    "name": "delibird",
+    "file": "white/delibird.png",
+    "filename": "delibird.png",
+    "colour": "white",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 226,
+    "name": "mantine",
+    "file": "blue/mantine-shiny.png",
+    "filename": "mantine-shiny.png",
+    "colour": "blue",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 226,
+    "name": "mantine",
+    "file": "blue/mantine.png",
+    "filename": "mantine.png",
+    "colour": "blue",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 227,
+    "name": "skarmory",
+    "file": "grey/skarmory-shiny.png",
+    "filename": "skarmory-shiny.png",
+    "colour": "grey",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 227,
+    "name": "skarmory",
+    "file": "grey/skarmory.png",
+    "filename": "skarmory.png",
+    "colour": "grey",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 228,
+    "name": "houndour",
+    "file": "black/houndour-shiny.png",
+    "filename": "houndour-shiny.png",
+    "colour": "black",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 228,
+    "name": "houndour",
+    "file": "black/houndour.png",
+    "filename": "houndour.png",
+    "colour": "black",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 229,
+    "name": "houndoom",
+    "file": "black/houndoom-shiny.png",
+    "filename": "houndoom-shiny.png",
+    "colour": "black",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 229,
+    "name": "houndoom",
+    "file": "black/houndoom.png",
+    "filename": "houndoom.png",
+    "colour": "black",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 230,
+    "name": "kingdra",
+    "file": "blue/kingdra-shiny.png",
+    "filename": "kingdra-shiny.png",
+    "colour": "blue",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 230,
+    "name": "kingdra",
+    "file": "blue/kingdra.png",
+    "filename": "kingdra.png",
+    "colour": "blue",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 231,
+    "name": "phanpy",
+    "file": "brown/phanpy-shiny.png",
+    "filename": "phanpy-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 231,
+    "name": "phanpy",
+    "file": "brown/phanpy.png",
+    "filename": "phanpy.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 232,
+    "name": "donphan",
+    "file": "brown/donphan-shiny.png",
+    "filename": "donphan-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 232,
+    "name": "donphan",
+    "file": "brown/donphan.png",
+    "filename": "donphan.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 233,
+    "name": "porygon2",
+    "file": "brown/porygon2-shiny.png",
+    "filename": "porygon2-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 233,
+    "name": "porygon2",
+    "file": "brown/porygon2.png",
+    "filename": "porygon2.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 234,
+    "name": "stantler",
+    "file": "brown/stantler-shiny.png",
+    "filename": "stantler-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 234,
+    "name": "stantler",
+    "file": "brown/stantler.png",
+    "filename": "stantler.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 235,
+    "name": "smeargle",
+    "file": "brown/smeargle-shiny.png",
+    "filename": "smeargle-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 235,
+    "name": "smeargle",
+    "file": "brown/smeargle.png",
+    "filename": "smeargle.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 236,
+    "name": "tyrogue",
+    "file": "brown/tyrogue-shiny.png",
+    "filename": "tyrogue-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 236,
+    "name": "tyrogue",
+    "file": "brown/tyrogue.png",
+    "filename": "tyrogue.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 237,
+    "name": "hitmontop",
+    "file": "brown/hitmontop-shiny.png",
+    "filename": "hitmontop-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 237,
+    "name": "hitmontop",
+    "file": "brown/hitmontop.png",
+    "filename": "hitmontop.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 238,
+    "name": "smoochum",
+    "file": "purple/smoochum-shiny.png",
+    "filename": "smoochum-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 238,
+    "name": "smoochum",
+    "file": "purple/smoochum.png",
+    "filename": "smoochum.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 239,
+    "name": "elekid",
+    "file": "yellow/elekid-shiny.png",
+    "filename": "elekid-shiny.png",
+    "colour": "yellow",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 239,
+    "name": "elekid",
+    "file": "yellow/elekid.png",
+    "filename": "elekid.png",
+    "colour": "yellow",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 240,
+    "name": "magby",
+    "file": "red/magby-shiny.png",
+    "filename": "magby-shiny.png",
+    "colour": "red",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 240,
+    "name": "magby",
+    "file": "red/magby.png",
+    "filename": "magby.png",
+    "colour": "red",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 241,
+    "name": "miltank",
+    "file": "pink/miltank-shiny.png",
+    "filename": "miltank-shiny.png",
+    "colour": "pink",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 241,
+    "name": "miltank",
+    "file": "pink/miltank.png",
+    "filename": "miltank.png",
+    "colour": "pink",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 242,
+    "name": "blissey",
+    "file": "pink/blissey-shiny.png",
+    "filename": "blissey-shiny.png",
+    "colour": "pink",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 242,
+    "name": "blissey",
+    "file": "pink/blissey.png",
+    "filename": "blissey.png",
+    "colour": "pink",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 243,
+    "name": "raikou",
+    "file": "yellow/raikou-shiny.png",
+    "filename": "raikou-shiny.png",
+    "colour": "yellow",
+    "shiny": true,
+    "legendary": true
+  },
+  {
+    "dex": 243,
+    "name": "raikou",
+    "file": "yellow/raikou.png",
+    "filename": "raikou.png",
+    "colour": "yellow",
+    "shiny": false,
+    "legendary": true
+  },
+  {
+    "dex": 244,
+    "name": "entei",
+    "file": "brown/entei-shiny.png",
+    "filename": "entei-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": true
+  },
+  {
+    "dex": 244,
+    "name": "entei",
+    "file": "brown/entei.png",
+    "filename": "entei.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": true
+  },
+  {
+    "dex": 245,
+    "name": "suicune",
+    "file": "blue/suicune-shiny.png",
+    "filename": "suicune-shiny.png",
+    "colour": "blue",
+    "shiny": true,
+    "legendary": true
+  },
+  {
+    "dex": 245,
+    "name": "suicune",
+    "file": "blue/suicune.png",
+    "filename": "suicune.png",
+    "colour": "blue",
+    "shiny": false,
+    "legendary": true
+  },
+  {
+    "dex": 246,
+    "name": "larvitar",
+    "file": "green/larvitar-shiny.png",
+    "filename": "larvitar-shiny.png",
+    "colour": "green",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 246,
+    "name": "larvitar",
+    "file": "green/larvitar.png",
+    "filename": "larvitar.png",
+    "colour": "green",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 247,
+    "name": "pupitar",
+    "file": "grey/pupitar-shiny.png",
+    "filename": "pupitar-shiny.png",
+    "colour": "grey",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 247,
+    "name": "pupitar",
+    "file": "grey/pupitar.png",
+    "filename": "pupitar.png",
+    "colour": "grey",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 248,
+    "name": "tyranitar",
+    "file": "green/tyranitar-shiny.png",
+    "filename": "tyranitar-shiny.png",
+    "colour": "green",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 248,
+    "name": "tyranitar",
+    "file": "green/tyranitar.png",
+    "filename": "tyranitar.png",
+    "colour": "green",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 249,
+    "name": "lugia",
+    "file": "white/lugia-shiny.png",
+    "filename": "lugia-shiny.png",
+    "colour": "white",
+    "shiny": true,
+    "legendary": true
+  },
+  {
+    "dex": 249,
+    "name": "lugia",
+    "file": "white/lugia.png",
+    "filename": "lugia.png",
+    "colour": "white",
+    "shiny": false,
+    "legendary": true
+  },
+  {
+    "dex": 250,
+    "name": "ho-oh",
+    "file": "red/ho-oh-shiny.png",
+    "filename": "ho-oh-shiny.png",
+    "colour": "red",
+    "shiny": true,
+    "legendary": true
+  },
+  {
+    "dex": 250,
+    "name": "ho-oh",
+    "file": "red/ho-oh.png",
+    "filename": "ho-oh.png",
+    "colour": "red",
+    "shiny": false,
+    "legendary": true
+  },
+  {
+    "dex": 251,
+    "name": "celebi",
+    "file": "green/celebi-shiny.png",
+    "filename": "celebi-shiny.png",
+    "colour": "green",
+    "shiny": true,
+    "legendary": true
+  },
+  {
+    "dex": 251,
+    "name": "celebi",
+    "file": "green/celebi.png",
+    "filename": "celebi.png",
+    "colour": "green",
+    "shiny": false,
+    "legendary": true
+  },
+  {
+    "dex": 252,
+    "name": "treecko",
+    "file": "green/treecko-shiny.png",
+    "filename": "treecko-shiny.png",
+    "colour": "green",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 252,
+    "name": "treecko",
+    "file": "green/treecko.png",
+    "filename": "treecko.png",
+    "colour": "green",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 253,
+    "name": "grovyle",
+    "file": "green/grovyle-shiny.png",
+    "filename": "grovyle-shiny.png",
+    "colour": "green",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 253,
+    "name": "grovyle",
+    "file": "green/grovyle.png",
+    "filename": "grovyle.png",
+    "colour": "green",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 254,
+    "name": "sceptile",
+    "file": "green/sceptile-shiny.png",
+    "filename": "sceptile-shiny.png",
+    "colour": "green",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 254,
+    "name": "sceptile",
+    "file": "green/sceptile.png",
+    "filename": "sceptile.png",
+    "colour": "green",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 255,
+    "name": "torchic",
+    "file": "red/torchic-shiny.png",
+    "filename": "torchic-shiny.png",
+    "colour": "red",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 255,
+    "name": "torchic",
+    "file": "red/torchic.png",
+    "filename": "torchic.png",
+    "colour": "red",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 256,
+    "name": "combusken",
+    "file": "red/combusken-shiny.png",
+    "filename": "combusken-shiny.png",
+    "colour": "red",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 256,
+    "name": "combusken",
+    "file": "red/combusken.png",
+    "filename": "combusken.png",
+    "colour": "red",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 257,
+    "name": "blaziken",
+    "file": "red/blaziken-shiny.png",
+    "filename": "blaziken-shiny.png",
+    "colour": "red",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 257,
+    "name": "blaziken",
+    "file": "red/blaziken.png",
+    "filename": "blaziken.png",
+    "colour": "red",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 258,
+    "name": "mudkip",
+    "file": "blue/mudkip-shiny.png",
+    "filename": "mudkip-shiny.png",
+    "colour": "blue",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 258,
+    "name": "mudkip",
+    "file": "blue/mudkip.png",
+    "filename": "mudkip.png",
+    "colour": "blue",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 259,
+    "name": "marshtomp",
+    "file": "blue/marshtomp-shiny.png",
+    "filename": "marshtomp-shiny.png",
+    "colour": "blue",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 259,
+    "name": "marshtomp",
+    "file": "blue/marshtomp.png",
+    "filename": "marshtomp.png",
+    "colour": "blue",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 260,
+    "name": "swampert",
+    "file": "blue/swampert-shiny.png",
+    "filename": "swampert-shiny.png",
+    "colour": "blue",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 260,
+    "name": "swampert",
+    "file": "blue/swampert.png",
+    "filename": "swampert.png",
+    "colour": "blue",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 261,
+    "name": "poochyena",
+    "file": "black/poochyena-shiny.png",
+    "filename": "poochyena-shiny.png",
+    "colour": "black",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 261,
+    "name": "poochyena",
+    "file": "black/poochyena.png",
+    "filename": "poochyena.png",
+    "colour": "black",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 262,
+    "name": "mightyena",
+    "file": "black/mightyena-shiny.png",
+    "filename": "mightyena-shiny.png",
+    "colour": "black",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 262,
+    "name": "mightyena",
+    "file": "black/mightyena.png",
+    "filename": "mightyena.png",
+    "colour": "black",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 263,
+    "name": "zigzagoon",
+    "file": "brown/zigzagoon-shiny.png",
+    "filename": "zigzagoon-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 263,
+    "name": "zigzagoon",
+    "file": "brown/zigzagoon.png",
+    "filename": "zigzagoon.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 264,
+    "name": "linoone",
+    "file": "brown/linoone-shiny.png",
+    "filename": "linoone-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 264,
+    "name": "linoone",
+    "file": "brown/linoone.png",
+    "filename": "linoone.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 265,
+    "name": "wurmple",
+    "file": "brown/wurmple-shiny.png",
+    "filename": "wurmple-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 265,
+    "name": "wurmple",
+    "file": "brown/wurmple.png",
+    "filename": "wurmple.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 266,
+    "name": "silcoon",
+    "file": "brown/silcoon-shiny.png",
+    "filename": "silcoon-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 266,
+    "name": "silcoon",
+    "file": "brown/silcoon.png",
+    "filename": "silcoon.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 267,
+    "name": "beautifly",
+    "file": "red/beautifly-shiny.png",
+    "filename": "beautifly-shiny.png",
+    "colour": "red",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 267,
+    "name": "beautifly",
+    "file": "red/beautifly.png",
+    "filename": "beautifly.png",
+    "colour": "red",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 268,
+    "name": "cascoon",
+    "file": "brown/cascoon-shiny.png",
+    "filename": "cascoon-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 268,
+    "name": "cascoon",
+    "file": "brown/cascoon.png",
+    "filename": "cascoon.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 269,
+    "name": "dustox",
+    "file": "purple/dustox-shiny.png",
+    "filename": "dustox-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 269,
+    "name": "dustox",
+    "file": "purple/dustox.png",
+    "filename": "dustox.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 270,
+    "name": "lotad",
+    "file": "green/lotad-shiny.png",
+    "filename": "lotad-shiny.png",
+    "colour": "green",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 270,
+    "name": "lotad",
+    "file": "green/lotad.png",
+    "filename": "lotad.png",
+    "colour": "green",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 271,
+    "name": "lombre",
+    "file": "green/lombre-shiny.png",
+    "filename": "lombre-shiny.png",
+    "colour": "green",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 271,
+    "name": "lombre",
+    "file": "green/lombre.png",
+    "filename": "lombre.png",
+    "colour": "green",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 272,
+    "name": "ludicolo",
+    "file": "green/ludicolo-shiny.png",
+    "filename": "ludicolo-shiny.png",
+    "colour": "green",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 272,
+    "name": "ludicolo",
+    "file": "green/ludicolo.png",
+    "filename": "ludicolo.png",
+    "colour": "green",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 273,
+    "name": "seedot",
+    "file": "brown/seedot-shiny.png",
+    "filename": "seedot-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 273,
+    "name": "seedot",
+    "file": "brown/seedot.png",
+    "filename": "seedot.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 274,
+    "name": "nuzleaf",
+    "file": "green/nuzleaf-shiny.png",
+    "filename": "nuzleaf-shiny.png",
+    "colour": "green",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 274,
+    "name": "nuzleaf",
+    "file": "green/nuzleaf.png",
+    "filename": "nuzleaf.png",
+    "colour": "green",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 275,
+    "name": "shiftry",
+    "file": "green/shiftry-shiny.png",
+    "filename": "shiftry-shiny.png",
+    "colour": "green",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 275,
+    "name": "shiftry",
+    "file": "green/shiftry.png",
+    "filename": "shiftry.png",
+    "colour": "green",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 276,
+    "name": "taillow",
+    "file": "purple/taillow-shiny.png",
+    "filename": "taillow-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 276,
+    "name": "taillow",
+    "file": "purple/taillow.png",
+    "filename": "taillow.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 277,
+    "name": "swellow",
+    "file": "purple/swellow-shiny.png",
+    "filename": "swellow-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 277,
+    "name": "swellow",
+    "file": "purple/swellow.png",
+    "filename": "swellow.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 278,
+    "name": "wingull",
+    "file": "white/wingull-shiny.png",
+    "filename": "wingull-shiny.png",
+    "colour": "white",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 278,
+    "name": "wingull",
+    "file": "white/wingull.png",
+    "filename": "wingull.png",
+    "colour": "white",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 279,
+    "name": "pelipper",
+    "file": "white/pelipper-shiny.png",
+    "filename": "pelipper-shiny.png",
+    "colour": "white",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 279,
+    "name": "pelipper",
+    "file": "white/pelipper.png",
+    "filename": "pelipper.png",
+    "colour": "white",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 280,
+    "name": "ralts",
+    "file": "purple/ralts-shiny.png",
+    "filename": "ralts-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 280,
+    "name": "ralts",
+    "file": "purple/ralts.png",
+    "filename": "ralts.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 281,
+    "name": "kirlia",
+    "file": "purple/kirlia-shiny.png",
+    "filename": "kirlia-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 281,
+    "name": "kirlia",
+    "file": "purple/kirlia.png",
+    "filename": "kirlia.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 282,
+    "name": "gardevoir",
+    "file": "purple/gardevoir-shiny.png",
+    "filename": "gardevoir-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 282,
+    "name": "gardevoir",
+    "file": "purple/gardevoir.png",
+    "filename": "gardevoir.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 283,
+    "name": "surskit",
+    "file": "blue/surskit-shiny.png",
+    "filename": "surskit-shiny.png",
+    "colour": "blue",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 283,
+    "name": "surskit",
+    "file": "blue/surskit.png",
+    "filename": "surskit.png",
+    "colour": "blue",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 284,
+    "name": "masquerain",
+    "file": "blue/masquerain-shiny.png",
+    "filename": "masquerain-shiny.png",
+    "colour": "blue",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 284,
+    "name": "masquerain",
+    "file": "blue/masquerain.png",
+    "filename": "masquerain.png",
+    "colour": "blue",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 285,
+    "name": "shroomish",
+    "file": "green/shroomish-shiny.png",
+    "filename": "shroomish-shiny.png",
+    "colour": "green",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 285,
+    "name": "shroomish",
+    "file": "green/shroomish.png",
+    "filename": "shroomish.png",
+    "colour": "green",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 286,
+    "name": "breloom",
+    "file": "green/breloom-shiny.png",
+    "filename": "breloom-shiny.png",
+    "colour": "green",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 286,
+    "name": "breloom",
+    "file": "green/breloom.png",
+    "filename": "breloom.png",
+    "colour": "green",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 287,
+    "name": "slakoth",
+    "file": "brown/slakoth-shiny.png",
+    "filename": "slakoth-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 287,
+    "name": "slakoth",
+    "file": "brown/slakoth.png",
+    "filename": "slakoth.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 288,
+    "name": "vigoroth",
+    "file": "brown/vigoroth-shiny.png",
+    "filename": "vigoroth-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 288,
+    "name": "vigoroth",
+    "file": "brown/vigoroth.png",
+    "filename": "vigoroth.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 289,
+    "name": "slaking",
+    "file": "brown/slaking-shiny.png",
+    "filename": "slaking-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 289,
+    "name": "slaking",
+    "file": "brown/slaking.png",
+    "filename": "slaking.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 290,
+    "name": "nincada",
+    "file": "grey/nincada-shiny.png",
+    "filename": "nincada-shiny.png",
+    "colour": "grey",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 290,
+    "name": "nincada",
+    "file": "grey/nincada.png",
+    "filename": "nincada.png",
+    "colour": "grey",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 291,
+    "name": "ninjask",
+    "file": "grey/ninjask-shiny.png",
+    "filename": "ninjask-shiny.png",
+    "colour": "grey",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 291,
+    "name": "ninjask",
+    "file": "grey/ninjask.png",
+    "filename": "ninjask.png",
+    "colour": "grey",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 292,
+    "name": "shedinja",
+    "file": "grey/shedinja-shiny.png",
+    "filename": "shedinja-shiny.png",
+    "colour": "grey",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 292,
+    "name": "shedinja",
+    "file": "grey/shedinja.png",
+    "filename": "shedinja.png",
+    "colour": "grey",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 293,
+    "name": "whismur",
+    "file": "brown/whismur-shiny.png",
+    "filename": "whismur-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 293,
+    "name": "whismur",
+    "file": "brown/whismur.png",
+    "filename": "whismur.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 294,
+    "name": "loudred",
+    "file": "brown/loudred-shiny.png",
+    "filename": "loudred-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 294,
+    "name": "loudred",
+    "file": "brown/loudred.png",
+    "filename": "loudred.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 295,
+    "name": "exploud",
+    "file": "brown/exploud-shiny.png",
+    "filename": "exploud-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 295,
+    "name": "exploud",
+    "file": "brown/exploud.png",
+    "filename": "exploud.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 296,
+    "name": "makuhita",
+    "file": "yellow/makuhita-shiny.png",
+    "filename": "makuhita-shiny.png",
+    "colour": "yellow",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 296,
+    "name": "makuhita",
+    "file": "yellow/makuhita.png",
+    "filename": "makuhita.png",
+    "colour": "yellow",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 297,
+    "name": "hariyama",
+    "file": "yellow/hariyama-shiny.png",
+    "filename": "hariyama-shiny.png",
+    "colour": "yellow",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 297,
+    "name": "hariyama",
+    "file": "yellow/hariyama.png",
+    "filename": "hariyama.png",
+    "colour": "yellow",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 298,
+    "name": "azurill",
+    "file": "pink/azurill-shiny.png",
+    "filename": "azurill-shiny.png",
+    "colour": "pink",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 298,
+    "name": "azurill",
+    "file": "pink/azurill.png",
+    "filename": "azurill.png",
+    "colour": "pink",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 299,
+    "name": "nosepass",
+    "file": "yellow/nosepass-shiny.png",
+    "filename": "nosepass-shiny.png",
+    "colour": "yellow",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 299,
+    "name": "nosepass",
+    "file": "yellow/nosepass.png",
+    "filename": "nosepass.png",
+    "colour": "yellow",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 300,
+    "name": "skitty",
+    "file": "pink/skitty-shiny.png",
+    "filename": "skitty-shiny.png",
+    "colour": "pink",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 300,
+    "name": "skitty",
+    "file": "pink/skitty.png",
+    "filename": "skitty.png",
+    "colour": "pink",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 301,
+    "name": "delcatty",
+    "file": "pink/delcatty-shiny.png",
+    "filename": "delcatty-shiny.png",
+    "colour": "pink",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 301,
+    "name": "delcatty",
+    "file": "pink/delcatty.png",
+    "filename": "delcatty.png",
+    "colour": "pink",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 302,
+    "name": "sableye",
+    "file": "black/sableye-shiny.png",
+    "filename": "sableye-shiny.png",
+    "colour": "black",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 302,
+    "name": "sableye",
+    "file": "black/sableye.png",
+    "filename": "sableye.png",
+    "colour": "black",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 303,
+    "name": "mawile",
+    "file": "purple/mawile-shiny.png",
+    "filename": "mawile-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 303,
+    "name": "mawile",
+    "file": "purple/mawile.png",
+    "filename": "mawile.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 304,
+    "name": "aron",
+    "file": "grey/aron-shiny.png",
+    "filename": "aron-shiny.png",
+    "colour": "grey",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 304,
+    "name": "aron",
+    "file": "grey/aron.png",
+    "filename": "aron.png",
+    "colour": "grey",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 305,
+    "name": "lairon",
+    "file": "grey/lairon-shiny.png",
+    "filename": "lairon-shiny.png",
+    "colour": "grey",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 305,
+    "name": "lairon",
+    "file": "grey/lairon.png",
+    "filename": "lairon.png",
+    "colour": "grey",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 306,
+    "name": "aggron",
+    "file": "grey/aggron-shiny.png",
+    "filename": "aggron-shiny.png",
+    "colour": "grey",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 306,
+    "name": "aggron",
+    "file": "grey/aggron.png",
+    "filename": "aggron.png",
+    "colour": "grey",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 307,
+    "name": "meditite",
+    "file": "grey/meditite-shiny.png",
+    "filename": "meditite-shiny.png",
+    "colour": "grey",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 307,
+    "name": "meditite",
+    "file": "grey/meditite.png",
+    "filename": "meditite.png",
+    "colour": "grey",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 308,
+    "name": "medicham",
+    "file": "grey/medicham-shiny.png",
+    "filename": "medicham-shiny.png",
+    "colour": "grey",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 308,
+    "name": "medicham",
+    "file": "grey/medicham.png",
+    "filename": "medicham.png",
+    "colour": "grey",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 309,
+    "name": "electrike",
+    "file": "yellow/electrike-shiny.png",
+    "filename": "electrike-shiny.png",
+    "colour": "yellow",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 309,
+    "name": "electrike",
+    "file": "yellow/electrike.png",
+    "filename": "electrike.png",
+    "colour": "yellow",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 310,
+    "name": "manectric",
+    "file": "yellow/manectric-shiny.png",
+    "filename": "manectric-shiny.png",
+    "colour": "yellow",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 310,
+    "name": "manectric",
+    "file": "yellow/manectric.png",
+    "filename": "manectric.png",
+    "colour": "yellow",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 311,
+    "name": "plusle",
+    "file": "yellow/plusle-shiny.png",
+    "filename": "plusle-shiny.png",
+    "colour": "yellow",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 311,
+    "name": "plusle",
+    "file": "yellow/plusle.png",
+    "filename": "plusle.png",
+    "colour": "yellow",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 312,
+    "name": "minun",
+    "file": "yellow/minun-shiny.png",
+    "filename": "minun-shiny.png",
+    "colour": "yellow",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 312,
+    "name": "minun",
+    "file": "yellow/minun.png",
+    "filename": "minun.png",
+    "colour": "yellow",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 313,
+    "name": "volbeat",
+    "file": "brown/volbeat-shiny.png",
+    "filename": "volbeat-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 313,
+    "name": "volbeat",
+    "file": "brown/volbeat.png",
+    "filename": "volbeat.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 314,
+    "name": "illumise",
+    "file": "brown/illumise-shiny.png",
+    "filename": "illumise-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 314,
+    "name": "illumise",
+    "file": "brown/illumise.png",
+    "filename": "illumise.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 315,
+    "name": "roselia",
+    "file": "green/roselia-shiny.png",
+    "filename": "roselia-shiny.png",
+    "colour": "green",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 315,
+    "name": "roselia",
+    "file": "green/roselia.png",
+    "filename": "roselia.png",
+    "colour": "green",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 316,
+    "name": "gulpin",
+    "file": "green/gulpin-shiny.png",
+    "filename": "gulpin-shiny.png",
+    "colour": "green",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 316,
+    "name": "gulpin",
+    "file": "green/gulpin.png",
+    "filename": "gulpin.png",
+    "colour": "green",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 317,
+    "name": "swalot",
+    "file": "green/swalot-shiny.png",
+    "filename": "swalot-shiny.png",
+    "colour": "green",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 317,
+    "name": "swalot",
+    "file": "green/swalot.png",
+    "filename": "swalot.png",
+    "colour": "green",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 318,
+    "name": "carvanha",
+    "file": "blue/carvanha-shiny.png",
+    "filename": "carvanha-shiny.png",
+    "colour": "blue",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 318,
+    "name": "carvanha",
+    "file": "blue/carvanha.png",
+    "filename": "carvanha.png",
+    "colour": "blue",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 319,
+    "name": "sharpedo",
+    "file": "blue/sharpedo-shiny.png",
+    "filename": "sharpedo-shiny.png",
+    "colour": "blue",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 319,
+    "name": "sharpedo",
+    "file": "blue/sharpedo.png",
+    "filename": "sharpedo.png",
+    "colour": "blue",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 320,
+    "name": "wailmer",
+    "file": "blue/wailmer-shiny.png",
+    "filename": "wailmer-shiny.png",
+    "colour": "blue",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 320,
+    "name": "wailmer",
+    "file": "blue/wailmer.png",
+    "filename": "wailmer.png",
+    "colour": "blue",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 321,
+    "name": "wailord",
+    "file": "blue/wailord-shiny.png",
+    "filename": "wailord-shiny.png",
+    "colour": "blue",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 321,
+    "name": "wailord",
+    "file": "blue/wailord.png",
+    "filename": "wailord.png",
+    "colour": "blue",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 322,
+    "name": "numel",
+    "file": "red/numel-shiny.png",
+    "filename": "numel-shiny.png",
+    "colour": "red",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 322,
+    "name": "numel",
+    "file": "red/numel.png",
+    "filename": "numel.png",
+    "colour": "red",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 323,
+    "name": "camerupt",
+    "file": "red/camerupt-shiny.png",
+    "filename": "camerupt-shiny.png",
+    "colour": "red",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 323,
+    "name": "camerupt",
+    "file": "red/camerupt.png",
+    "filename": "camerupt.png",
+    "colour": "red",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 324,
+    "name": "torkoal",
+    "file": "red/torkoal-shiny.png",
+    "filename": "torkoal-shiny.png",
+    "colour": "red",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 324,
+    "name": "torkoal",
+    "file": "red/torkoal.png",
+    "filename": "torkoal.png",
+    "colour": "red",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 325,
+    "name": "spoink",
+    "file": "brown/spoink-shiny.png",
+    "filename": "spoink-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 325,
+    "name": "spoink",
+    "file": "brown/spoink.png",
+    "filename": "spoink.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 326,
+    "name": "grumpig",
+    "file": "brown/grumpig-shiny.png",
+    "filename": "grumpig-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 326,
+    "name": "grumpig",
+    "file": "brown/grumpig.png",
+    "filename": "grumpig.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 327,
+    "name": "spinda",
+    "file": "purple/spinda-shiny.png",
+    "filename": "spinda-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 327,
+    "name": "spinda",
+    "file": "purple/spinda.png",
+    "filename": "spinda.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 328,
+    "name": "trapinch",
+    "file": "yellow/trapinch-shiny.png",
+    "filename": "trapinch-shiny.png",
+    "colour": "yellow",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 328,
+    "name": "trapinch",
+    "file": "yellow/trapinch.png",
+    "filename": "trapinch.png",
+    "colour": "yellow",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 329,
+    "name": "vibrava",
+    "file": "yellow/vibrava-shiny.png",
+    "filename": "vibrava-shiny.png",
+    "colour": "yellow",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 329,
+    "name": "vibrava",
+    "file": "yellow/vibrava.png",
+    "filename": "vibrava.png",
+    "colour": "yellow",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 330,
+    "name": "flygon",
+    "file": "yellow/flygon-shiny.png",
+    "filename": "flygon-shiny.png",
+    "colour": "yellow",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 330,
+    "name": "flygon",
+    "file": "yellow/flygon.png",
+    "filename": "flygon.png",
+    "colour": "yellow",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 331,
+    "name": "cacnea",
+    "file": "green/cacnea-shiny.png",
+    "filename": "cacnea-shiny.png",
+    "colour": "green",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 331,
+    "name": "cacnea",
+    "file": "green/cacnea.png",
+    "filename": "cacnea.png",
+    "colour": "green",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 332,
+    "name": "cacturne",
+    "file": "green/cacturne-shiny.png",
+    "filename": "cacturne-shiny.png",
+    "colour": "green",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 332,
+    "name": "cacturne",
+    "file": "green/cacturne.png",
+    "filename": "cacturne.png",
+    "colour": "green",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 333,
+    "name": "swablu",
+    "file": "white/swablu-shiny.png",
+    "filename": "swablu-shiny.png",
+    "colour": "white",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 333,
+    "name": "swablu",
+    "file": "white/swablu.png",
+    "filename": "swablu.png",
+    "colour": "white",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 334,
+    "name": "altaria",
+    "file": "white/altaria-shiny.png",
+    "filename": "altaria-shiny.png",
+    "colour": "white",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 334,
+    "name": "altaria",
+    "file": "white/altaria.png",
+    "filename": "altaria.png",
+    "colour": "white",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 335,
+    "name": "zangoose",
+    "file": "yellow/zangoose-shiny.png",
+    "filename": "zangoose-shiny.png",
+    "colour": "yellow",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 335,
+    "name": "zangoose",
+    "file": "yellow/zangoose.png",
+    "filename": "zangoose.png",
+    "colour": "yellow",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 336,
+    "name": "seviper",
+    "file": "brown/seviper-shiny.png",
+    "filename": "seviper-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 336,
+    "name": "seviper",
+    "file": "brown/seviper.png",
+    "filename": "seviper.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 337,
+    "name": "lunatone",
+    "file": "grey/lunatone-shiny.png",
+    "filename": "lunatone-shiny.png",
+    "colour": "grey",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 337,
+    "name": "lunatone",
+    "file": "grey/lunatone.png",
+    "filename": "lunatone.png",
+    "colour": "grey",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 338,
+    "name": "solrock",
+    "file": "yellow/solrock-shiny.png",
+    "filename": "solrock-shiny.png",
+    "colour": "yellow",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 338,
+    "name": "solrock",
+    "file": "yellow/solrock.png",
+    "filename": "solrock.png",
+    "colour": "yellow",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 339,
+    "name": "barboach",
+    "file": "blue/barboach-shiny.png",
+    "filename": "barboach-shiny.png",
+    "colour": "blue",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 339,
+    "name": "barboach",
+    "file": "blue/barboach.png",
+    "filename": "barboach.png",
+    "colour": "blue",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 340,
+    "name": "whiscash",
+    "file": "blue/whiscash-shiny.png",
+    "filename": "whiscash-shiny.png",
+    "colour": "blue",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 340,
+    "name": "whiscash",
+    "file": "blue/whiscash.png",
+    "filename": "whiscash.png",
+    "colour": "blue",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 341,
+    "name": "corphish",
+    "file": "red/corphish-shiny.png",
+    "filename": "corphish-shiny.png",
+    "colour": "red",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 341,
+    "name": "corphish",
+    "file": "red/corphish.png",
+    "filename": "corphish.png",
+    "colour": "red",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 342,
+    "name": "crawdaunt",
+    "file": "red/crawdaunt-shiny.png",
+    "filename": "crawdaunt-shiny.png",
+    "colour": "red",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 342,
+    "name": "crawdaunt",
+    "file": "red/crawdaunt.png",
+    "filename": "crawdaunt.png",
+    "colour": "red",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 343,
+    "name": "baltoy",
+    "file": "grey/baltoy-shiny.png",
+    "filename": "baltoy-shiny.png",
+    "colour": "grey",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 343,
+    "name": "baltoy",
+    "file": "grey/baltoy.png",
+    "filename": "baltoy.png",
+    "colour": "grey",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 344,
+    "name": "claydol",
+    "file": "grey/claydol-shiny.png",
+    "filename": "claydol-shiny.png",
+    "colour": "grey",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 344,
+    "name": "claydol",
+    "file": "grey/claydol.png",
+    "filename": "claydol.png",
+    "colour": "grey",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 345,
+    "name": "lileep",
+    "file": "green/lileep-shiny.png",
+    "filename": "lileep-shiny.png",
+    "colour": "green",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 345,
+    "name": "lileep",
+    "file": "green/lileep.png",
+    "filename": "lileep.png",
+    "colour": "green",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 346,
+    "name": "cradily",
+    "file": "green/cradily-shiny.png",
+    "filename": "cradily-shiny.png",
+    "colour": "green",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 346,
+    "name": "cradily",
+    "file": "green/cradily.png",
+    "filename": "cradily.png",
+    "colour": "green",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 347,
+    "name": "anorith",
+    "file": "grey/anorith-shiny.png",
+    "filename": "anorith-shiny.png",
+    "colour": "grey",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 347,
+    "name": "anorith",
+    "file": "grey/anorith.png",
+    "filename": "anorith.png",
+    "colour": "grey",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 348,
+    "name": "armaldo",
+    "file": "grey/armaldo-shiny.png",
+    "filename": "armaldo-shiny.png",
+    "colour": "grey",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 348,
+    "name": "armaldo",
+    "file": "grey/armaldo.png",
+    "filename": "armaldo.png",
+    "colour": "grey",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 349,
+    "name": "feebas",
+    "file": "pink/feebas-shiny.png",
+    "filename": "feebas-shiny.png",
+    "colour": "pink",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 349,
+    "name": "feebas",
+    "file": "pink/feebas.png",
+    "filename": "feebas.png",
+    "colour": "pink",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 350,
+    "name": "milotic",
+    "file": "pink/milotic-shiny.png",
+    "filename": "milotic-shiny.png",
+    "colour": "pink",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 350,
+    "name": "milotic",
+    "file": "pink/milotic.png",
+    "filename": "milotic.png",
+    "colour": "pink",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 351,
+    "name": "castform",
+    "file": "purple/castform-rainy-shiny.png",
+    "filename": "castform-rainy-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 351,
+    "name": "castform",
+    "file": "purple/castform-rainy.png",
+    "filename": "castform-rainy.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 351,
+    "name": "castform",
+    "file": "purple/castform-shiny.png",
+    "filename": "castform-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 351,
+    "name": "castform",
+    "file": "purple/castform-snowy-shiny.png",
+    "filename": "castform-snowy-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 351,
+    "name": "castform",
+    "file": "purple/castform-snowy.png",
+    "filename": "castform-snowy.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 351,
+    "name": "castform",
+    "file": "purple/castform-sunny-shiny.png",
+    "filename": "castform-sunny-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 351,
+    "name": "castform",
+    "file": "purple/castform-sunny.png",
+    "filename": "castform-sunny.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 351,
+    "name": "castform",
+    "file": "purple/castform.png",
+    "filename": "castform.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 352,
+    "name": "kecleon",
+    "file": "brown/kecleon-shiny.png",
+    "filename": "kecleon-shiny.png",
+    "colour": "brown",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 352,
+    "name": "kecleon",
+    "file": "brown/kecleon.png",
+    "filename": "kecleon.png",
+    "colour": "brown",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 353,
+    "name": "shuppet",
+    "file": "black/shuppet-shiny.png",
+    "filename": "shuppet-shiny.png",
+    "colour": "black",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 353,
+    "name": "shuppet",
+    "file": "black/shuppet.png",
+    "filename": "shuppet.png",
+    "colour": "black",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 354,
+    "name": "banette",
+    "file": "black/banette-shiny.png",
+    "filename": "banette-shiny.png",
+    "colour": "black",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 354,
+    "name": "banette",
+    "file": "black/banette.png",
+    "filename": "banette.png",
+    "colour": "black",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 355,
+    "name": "duskull",
+    "file": "black/duskull-shiny.png",
+    "filename": "duskull-shiny.png",
+    "colour": "black",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 355,
+    "name": "duskull",
+    "file": "black/duskull.png",
+    "filename": "duskull.png",
+    "colour": "black",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 356,
+    "name": "dusclops",
+    "file": "black/dusclops-shiny.png",
+    "filename": "dusclops-shiny.png",
+    "colour": "black",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 356,
+    "name": "dusclops",
+    "file": "black/dusclops.png",
+    "filename": "dusclops.png",
+    "colour": "black",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 357,
+    "name": "tropius",
+    "file": "green/tropius-shiny.png",
+    "filename": "tropius-shiny.png",
+    "colour": "green",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 357,
+    "name": "tropius",
+    "file": "green/tropius.png",
+    "filename": "tropius.png",
+    "colour": "green",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 358,
+    "name": "chimecho",
+    "file": "purple/chimecho-shiny.png",
+    "filename": "chimecho-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 358,
+    "name": "chimecho",
+    "file": "purple/chimecho.png",
+    "filename": "chimecho.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 359,
+    "name": "absol",
+    "file": "white/absol-shiny.png",
+    "filename": "absol-shiny.png",
+    "colour": "white",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 359,
+    "name": "absol",
+    "file": "white/absol.png",
+    "filename": "absol.png",
+    "colour": "white",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 360,
+    "name": "wynaut",
+    "file": "purple/wynaut-shiny.png",
+    "filename": "wynaut-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 360,
+    "name": "wynaut",
+    "file": "purple/wynaut.png",
+    "filename": "wynaut.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 361,
+    "name": "snorunt",
+    "file": "white/snorunt-shiny.png",
+    "filename": "snorunt-shiny.png",
+    "colour": "white",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 361,
+    "name": "snorunt",
+    "file": "white/snorunt.png",
+    "filename": "snorunt.png",
+    "colour": "white",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 362,
+    "name": "glalie",
+    "file": "white/glalie-shiny.png",
+    "filename": "glalie-shiny.png",
+    "colour": "white",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 362,
+    "name": "glalie",
+    "file": "white/glalie.png",
+    "filename": "glalie.png",
+    "colour": "white",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 363,
+    "name": "spheal",
+    "file": "white/spheal-shiny.png",
+    "filename": "spheal-shiny.png",
+    "colour": "white",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 363,
+    "name": "spheal",
+    "file": "white/spheal.png",
+    "filename": "spheal.png",
+    "colour": "white",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 364,
+    "name": "sealeo",
+    "file": "white/sealeo-shiny.png",
+    "filename": "sealeo-shiny.png",
+    "colour": "white",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 364,
+    "name": "sealeo",
+    "file": "white/sealeo.png",
+    "filename": "sealeo.png",
+    "colour": "white",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 365,
+    "name": "walrein",
+    "file": "white/walrein-shiny.png",
+    "filename": "walrein-shiny.png",
+    "colour": "white",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 365,
+    "name": "walrein",
+    "file": "white/walrein.png",
+    "filename": "walrein.png",
+    "colour": "white",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 366,
+    "name": "clamperl",
+    "file": "white/clamperl-shiny.png",
+    "filename": "clamperl-shiny.png",
+    "colour": "white",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 366,
+    "name": "clamperl",
+    "file": "white/clamperl.png",
+    "filename": "clamperl.png",
+    "colour": "white",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 367,
+    "name": "huntail",
+    "file": "purple/huntail-shiny.png",
+    "filename": "huntail-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 367,
+    "name": "huntail",
+    "file": "purple/huntail.png",
+    "filename": "huntail.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 368,
+    "name": "gorebyss",
+    "file": "purple/gorebyss-shiny.png",
+    "filename": "gorebyss-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 368,
+    "name": "gorebyss",
+    "file": "purple/gorebyss.png",
+    "filename": "gorebyss.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 369,
+    "name": "relicanth",
+    "file": "white/relicanth-shiny.png",
+    "filename": "relicanth-shiny.png",
+    "colour": "white",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 369,
+    "name": "relicanth",
+    "file": "white/relicanth.png",
+    "filename": "relicanth.png",
+    "colour": "white",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 370,
+    "name": "luvdisc",
+    "file": "pink/luvdisc-shiny.png",
+    "filename": "luvdisc-shiny.png",
+    "colour": "pink",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 370,
+    "name": "luvdisc",
+    "file": "pink/luvdisc.png",
+    "filename": "luvdisc.png",
+    "colour": "pink",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 371,
+    "name": "bagon",
+    "file": "blue/bagon-shiny.png",
+    "filename": "bagon-shiny.png",
+    "colour": "blue",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 371,
+    "name": "bagon",
+    "file": "blue/bagon.png",
+    "filename": "bagon.png",
+    "colour": "blue",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 372,
+    "name": "shelgon",
+    "file": "blue/shelgon-shiny.png",
+    "filename": "shelgon-shiny.png",
+    "colour": "blue",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 372,
+    "name": "shelgon",
+    "file": "blue/shelgon.png",
+    "filename": "shelgon.png",
+    "colour": "blue",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 373,
+    "name": "salamence",
+    "file": "blue/salamence-shiny.png",
+    "filename": "salamence-shiny.png",
+    "colour": "blue",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 373,
+    "name": "salamence",
+    "file": "blue/salamence.png",
+    "filename": "salamence.png",
+    "colour": "blue",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 374,
+    "name": "beldum",
+    "file": "grey/beldum-shiny.png",
+    "filename": "beldum-shiny.png",
+    "colour": "grey",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 374,
+    "name": "beldum",
+    "file": "grey/beldum.png",
+    "filename": "beldum.png",
+    "colour": "grey",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 375,
+    "name": "metang",
+    "file": "grey/metang-shiny.png",
+    "filename": "metang-shiny.png",
+    "colour": "grey",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 375,
+    "name": "metang",
+    "file": "grey/metang.png",
+    "filename": "metang.png",
+    "colour": "grey",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 376,
+    "name": "metagross",
+    "file": "grey/metagross-shiny.png",
+    "filename": "metagross-shiny.png",
+    "colour": "grey",
+    "shiny": true,
+    "legendary": false
+  },
+  {
+    "dex": 376,
+    "name": "metagross",
+    "file": "grey/metagross.png",
+    "filename": "metagross.png",
+    "colour": "grey",
+    "shiny": false,
+    "legendary": false
+  },
+  {
+    "dex": 377,
+    "name": "regirock",
+    "file": "grey/regirock-shiny.png",
+    "filename": "regirock-shiny.png",
+    "colour": "grey",
+    "shiny": true,
+    "legendary": true
+  },
+  {
+    "dex": 377,
+    "name": "regirock",
+    "file": "grey/regirock.png",
+    "filename": "regirock.png",
+    "colour": "grey",
+    "shiny": false,
+    "legendary": true
+  },
+  {
+    "dex": 378,
+    "name": "regice",
+    "file": "grey/regice-shiny.png",
+    "filename": "regice-shiny.png",
+    "colour": "grey",
+    "shiny": true,
+    "legendary": true
+  },
+  {
+    "dex": 378,
+    "name": "regice",
+    "file": "grey/regice.png",
+    "filename": "regice.png",
+    "colour": "grey",
+    "shiny": false,
+    "legendary": true
+  },
+  {
+    "dex": 379,
+    "name": "registeel",
+    "file": "grey/registeel-shiny.png",
+    "filename": "registeel-shiny.png",
+    "colour": "grey",
+    "shiny": true,
+    "legendary": true
+  },
+  {
+    "dex": 379,
+    "name": "registeel",
+    "file": "grey/registeel.png",
+    "filename": "registeel.png",
+    "colour": "grey",
+    "shiny": false,
+    "legendary": true
+  },
+  {
+    "dex": 380,
+    "name": "latias",
+    "file": "white/latias-shiny.png",
+    "filename": "latias-shiny.png",
+    "colour": "white",
+    "shiny": true,
+    "legendary": true
+  },
+  {
+    "dex": 380,
+    "name": "latias",
+    "file": "white/latias.png",
+    "filename": "latias.png",
+    "colour": "white",
+    "shiny": false,
+    "legendary": true
+  },
+  {
+    "dex": 381,
+    "name": "latios",
+    "file": "blue/latios-shiny.png",
+    "filename": "latios-shiny.png",
+    "colour": "blue",
+    "shiny": true,
+    "legendary": true
+  },
+  {
+    "dex": 381,
+    "name": "latios",
+    "file": "blue/latios.png",
+    "filename": "latios.png",
+    "colour": "blue",
+    "shiny": false,
+    "legendary": true
+  },
+  {
+    "dex": 382,
+    "name": "kyogre",
+    "file": "blue/kyogre-shiny.png",
+    "filename": "kyogre-shiny.png",
+    "colour": "blue",
+    "shiny": true,
+    "legendary": true
+  },
+  {
+    "dex": 382,
+    "name": "kyogre",
+    "file": "blue/kyogre.png",
+    "filename": "kyogre.png",
+    "colour": "blue",
+    "shiny": false,
+    "legendary": true
+  },
+  {
+    "dex": 383,
+    "name": "groudon",
+    "file": "red/groudon-shiny.png",
+    "filename": "groudon-shiny.png",
+    "colour": "red",
+    "shiny": true,
+    "legendary": true
+  },
+  {
+    "dex": 383,
+    "name": "groudon",
+    "file": "red/groudon.png",
+    "filename": "groudon.png",
+    "colour": "red",
+    "shiny": false,
+    "legendary": true
+  },
+  {
+    "dex": 384,
+    "name": "rayquaza",
+    "file": "green/rayquaza-shiny.png",
+    "filename": "rayquaza-shiny.png",
+    "colour": "green",
+    "shiny": true,
+    "legendary": true
+  },
+  {
+    "dex": 384,
+    "name": "rayquaza",
+    "file": "green/rayquaza.png",
+    "filename": "rayquaza.png",
+    "colour": "green",
+    "shiny": false,
+    "legendary": true
+  },
+  {
+    "dex": 385,
+    "name": "jirachi",
+    "file": "white/jirachi-shiny.png",
+    "filename": "jirachi-shiny.png",
+    "colour": "white",
+    "shiny": true,
+    "legendary": true
+  },
+  {
+    "dex": 385,
+    "name": "jirachi",
+    "file": "white/jirachi.png",
+    "filename": "jirachi.png",
+    "colour": "white",
+    "shiny": false,
+    "legendary": true
+  },
+  {
+    "dex": 386,
+    "name": "deoxys",
+    "file": "purple/deoxys-normal-shiny.png",
+    "filename": "deoxys-normal-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": true
+  },
+  {
+    "dex": 386,
+    "name": "deoxys",
+    "file": "purple/deoxys-normal-shiny-2.png",
+    "filename": "deoxys-normal-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": true
+  },
+  {
+    "dex": 386,
+    "name": "deoxys",
+    "file": "purple/deoxys-normal.png",
+    "filename": "deoxys-normal.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": true
+  },
+  {
+    "dex": 386,
+    "name": "deoxys",
+    "file": "purple/deoxys-normal-2.png",
+    "filename": "deoxys-normal.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": true
+  },
+  {
+    "dex": 386,
+    "name": "deoxys",
+    "file": "purple/deoxys-speed-shiny.png",
+    "filename": "deoxys-speed-shiny.png",
+    "colour": "purple",
+    "shiny": true,
+    "legendary": true
+  },
+  {
+    "dex": 386,
+    "name": "deoxys",
+    "file": "purple/deoxys-speed.png",
+    "filename": "deoxys-speed.png",
+    "colour": "purple",
+    "shiny": false,
+    "legendary": true
+  }
+]

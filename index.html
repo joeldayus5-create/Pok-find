@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PokéFind</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>PokéFind</h1>
+<div id="playerTitleDisplay" class="playerTitle">🎒 Rookie Trainer</div>
+    <h2 id="targetTitle">Find: Crobat</h2>
+
+    <div id="topBar">
+        <div id="level">Level: 1</div>
+        <div id="timer">Time: 0</div>
+        <div id="score">Score: 0</div>
+    </div>
+
+    <div id="gameArea">
+        <div id="world"></div>
+    </div>
+
+    <div id="message">Drag around the map. Find the target!</div>
+
+    <button id="restartBtn">Skip Level (-2500)</button>
+    <button id="hintBtn">Shiny Hint (-10)</button>
+    <button id="pokedexBtn">Pokédex</button>
+    <button id="achievementsBtn">Achievements</button>
+    <button id="statsBtn">Stats</button>
+    <button id="resetSaveBtn">Reset Save</button>
+
+    <div id="modalOverlay" class="hidden">
+        <div id="modalBox">
+            <button id="closeModalBtn">X</button>
+            <h2 id="modalTitle">Pokédex</h2>
+            <div id="modalContent"></div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+
+</body>
+</html>
